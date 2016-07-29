@@ -19,22 +19,22 @@ Most of the dependencies can be installed using a python package manager like pi
 	3. python analyzeTweets.py
 
 #Approach
-	A simple approach with minimal use of any APIs is implemented
+A simple approach with minimal use of any APIs is implemented
 
-	##Filtering (getTweets.py)
-		1. Used several datasets to create a list of the most commonly used Hindi words (in Roman/Latin script) on the web and their frequencies.
-		2. Used the twitter REST API to search for tweets containing specific keywords (passed as pairs - single keywords like 'mujhe' were not effective. So instead, pairs of keywords were used like 'mujhe' AND 'tujhe'. This gave less false positives. Moreover, for words like 'me' 'tu' 'hi' etc. the other word must be a reasonably unqiue Hindi word.
-		3. The retrieved tweets were then filtered for English words - a tweet passed the filter only if it contained at least 3 words for the NLTK English stopwords list
-		4. Duplicates were deleted
-		5. 921 (out of 25,800 tweets) passed the filters
+## Filtering (getTweets.py)
+	1. Used several datasets to create a list of the most commonly used Hindi words (in Roman/Latin script) on the web and their frequencies.
+	2. Used the twitter REST API to search for tweets containing specific keywords (passed as pairs - single keywords like 'mujhe' were not effective. So instead, pairs of keywords were used like 'mujhe' AND 'tujhe'. This gave less false positives. Moreover, for words like 'me' 'tu' 'hi' etc. the other word must be a reasonably unqiue Hindi word.
+	3. The retrieved tweets were then filtered for English words - a tweet passed the filter only if it contained at least 3 words for the NLTK English stopwords list
+	4. Duplicates were deleted
+	5. 921 (out of 25,800 tweets) passed the filters
 
-	##Dictionary Creation (createDictionary.py)
-		1. First a dictionary that mapped from Hindi words in Roman script to Hindi words in Devanagari script was created using datasets containing pairs of such words
-		2. Then, I used several datasets to create a dictionary that mapped from Hindi words (in Devanagari) to English words
-		3. Finally, I created a dictionary that mapped from Hindi words in Roman Script to English words
+## Dictionary Creation (createDictionary.py)
+	1. First a dictionary that mapped from Hindi words in Roman script to Hindi words in Devanagari script was created using datasets containing pairs of such words
+	2. Then, I used several datasets to create a dictionary that mapped from Hindi words (in Devanagari) to English words
+	3. Finally, I created a dictionary that mapped from Hindi words in Roman Script to English words
 
-	##Translation
-		Given these dictionaries, translation was trivial: if a word in a tweet is not present in the list of English stopwords, it is translated.
+## Translation
+Given these dictionaries, translation was trivial: if a word in a tweet is not present in the list of English stopwords, it is translated.
 		
 #Challenges
 	1. Nature of tweets - acronyms, spelling errors, lots of noisy data
