@@ -1,0 +1,36 @@
+﻿
+
+Name of product: UW-Hindi Essential (Function) Dictionary
+
+ 
+Description: It is a dictionary of closed category of words or function words, made for the purpose of UNL-based Machine Translation and Multilingual Meaning based Search Engine.
+
+ 
+Number of entries:  556 entries till <03/10/2013>
+
+ 
+Format of dictionary:  
+
+[Head Word]{} “Universal Concept (icl>restriction)” (Attributes) <H,0,0>;Hindi Example Sentence 
+
+Example:
+
+[वह]{}  “he(icl>male person)” (PRON,PERSPRON,NOMNTV,ANIMT,MALE,3SG,SUB,HE,vaha); वह आ रहा है|
+
+ 
+Further explanation:
+
+Essential Dictionaries being made in Hindi, Marathi and English are complementary to the Main or the Content Word Dictionary. An Essential Dictionary is a dictionary of those words that occur frequently in the text of a particular language. This is also called the dictionary of closed category words (a word class to which no new items can normally be added, and that usually contains a relatively small number of items). This dictionary contains broadly two types of words: function words and commonly used symbols, punctuations, word endings, auxiliaries and some common adverbs. Function words contain different types of pronouns (personal, genitive, reflexive, indefinite, reciprocal, interrogative, etc.), conjunctions, interjections, postpositions, case markers, etc. The personal pronouns have been categorized into nominative case, accusative case, dative and genitive case. We are planning to add cardinals and ordinals also into this dictionary. 
+ 
+
+Acknowledgment: प्रसाद, वासुदेवनन्दन (२०००). आधुनिक हिन्दी व्याकरण और रचना. पटना : भारती भवन.
+
+बाहरी, हरदेव(१९९७). व्यावहारिक हिन्दी व्याकरण तथा रचना. इलाहाबाद : लोकभारती प्रकाशन. 
+
+Created by: Gajanan Krishna Rane, Mrs. Jaya Saraswati, Prof. Pushpak Bhattacharyya
+
+ 
+Date: 03rd October, 2013
+
+Current release compiled by: Diptesh Kanojia
+

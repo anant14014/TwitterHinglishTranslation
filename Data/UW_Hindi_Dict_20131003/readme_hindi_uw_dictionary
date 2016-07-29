@@ -1,0 +1,21 @@
+                                                                   
+                                             
+Name of the Product: Universal Word-Hindi Dictionary
+
+Description: The Dictionary is a lexical database to aid Machine Translation and multilingual meaning-based search engine. It consists of content words or words belonging to the ‘open’ class.
+
+Number of entries: This online lexical reference system contains 136162 entries till date.
+
+Format:  [Headword]{}"UC(icl>restriction)"(Attributes)<H,0,0>;(gloss)
+
+Further explanation: The Dictionary contains Hindi counterparts of English Nouns, Verbs, Adjectives, and Adverbs along with common phrases, idioms, proverbs, acronyms, abbreviations, and even colloquialism/slang in disambiguated concepts. It also provides the grammatical, morphological, semantic and etymological attributes of the Hindi words to make each concept as unambiguous as possible, and thus ensuring lexical coherence.
+
+Acknowledgment: (Mainly) Oxford Advanced Learner’s Dictionary, Princeton English WordNet
+
+Created by: Gajanan Krishna Rane, Jaya Saraswati, Prof. Pushpak Bhattacharya
+
+Date: 3rd October, 2013
+
+Current release compiled by: Diptesh Kanojia
+
+

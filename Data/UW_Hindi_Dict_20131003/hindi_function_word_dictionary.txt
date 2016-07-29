@@ -1,0 +1,556 @@
+﻿[मैं]{}”I(icl>one person)”(PRON,PERSPRON,ANIMT,NOMNTV,1SG,SUB,I,mEM)<H,0,0>;मैं स्कूल जाता हूँ।
+[मुझे]{}”I(icl>one person)”(PRON,PERSPRON,NOMNTV,ANIMT,1SG,I,muJe)<H,0,0>;मुझे एक किताब चाहिए। 
+[मुझको]{}”I(icl>one person)”(PRON,PERSPRON,NOMNTV,ANIMT,1SG,I,muJako)<H,0,0>;मुझको एक किताब चाहिए।
+[हम]{}”we(icl>persons)"(PRON,PERSPRON,NOMNTV,ANIMT,SUB,1PL,WE,hama)<H,0,0>;हम खाना खाते हैं।
+[हमें]{}”we(icl>persons)"(PRON,PERSPRON,ANIMT,NOMNTV,1PL,WE,hameM)<H,0,0>;हमें स्कूल जाना चाहिए।
+[तुम]{}”you(icl>one person)"(PRON,PERSPRON,NOMNTV,ANIMT,SUB,2SG,YOU,wuma)<H,0,0>;तुम खाना खाते हो।
+[तू]{}”you(icl>one person)"(PRON,PERSPRON,NOMNTV,ANIMT,2SG,SUB,YOU,wU)<H,0,0>;तू स्कूल जाता है।
+[तुम्हें]{}”you(icl>one person)"(PRON,PERSPRON,NOMNTV,ANIMT,2SG,SUB,YOU,wumheM)<H,0,0>;तुम्हें स्कूल जाना है।
+[तुझको]{}”you(icl>one person)"(PRON,PERSPRON,NOMNTV,ANIMT,2SG,SUB,YOU,wuJako)<H,0,0>;तुझको स्कूल जाना है।
+[तुझे]{}”you(icl>one person)"(PRON,PERSPRON,NOMNTV,ANIMT,2SG,SUB,YOU,wuJe)<H,0,0>;तुझे स्कूल जाना है।
+[तुझको]{}”you(icl>one person)"(PRON,PERSPRON,NOMNTV,ANIMT,2SG,SUB,YOU,wuJako)<H,0,0>;तुझको स्कूल जाना है।
+[तुमको]{}”you(icl>one person)"(PRON,PERSPRON,NOMNTV,ANIMT,M,2SG,SUB,YOU,wumako)<H,0,0>;तुमको स्कूल जाना है।
+[आप]{}”you(icl>one person)"(PRON,PERSPRON,NOMNTV,ANIMT,2SG,SUB,M,RESPECT,YOU,Apa)<H,0,0>;राधा जी,आप सुन्दर हैं।
+[आपको]{}”you(icl>one person)"(PRON,PERSPRON,NOMNTV,ANIMT,M,2SG,SUB,RESPECT,YOU,Apako)<H,0,0>;गोपाल जी,आपको स्कूल जाना है।
+[आपसे]{}”you(icl>one person)"(PRON,PERSPRON,NOMNTV,ANIMT,2SG,RESPECT,YOU,Apase)<H,0,0>;गोपाल आपसे यह काम नही होगा।
+[वह]{}”he"(PRON,PERSPRON,NOMNTV,ANIMT,M,3SG,SUB,HE,vaha)<H,0,0>;वह अच्छा लड़का है।
+[वह]{}”she"(PRON,PERSPRON,NOMNTV,ANIMT,F,3SG,SUB,SHE,vaha)<H,0,0>;वह सुन्दर लड़की है।
+[वे]{}”they(icl>persons)"(PRON,PERSPRON,ANIMT,NOMNTV,3PL,SUB,THEY,ve)<H,0,0>;वे स्कूल जाते हैं।
+[वो]{}”they(icl>persons)"(PRON,PERSPRON,NOMNTV,ANIMT,3PL,SUB,THEY,vo)<H,0,0>;वो स्कूल जाते हैं।
+[उन्हें]{}”they(icl>persons)”(PRON,PERSPRON,ANIMT,NOMNTV,3PL,THEY,unheM)<H,0,0>;उन्हें स्कूल जाना है।
+[उनको]{}”they(icl>persons)"(PRON,PERSPRON,INANI,NOMNTV,3PL,THEY,unako)<H,0,0>;यह काम उनको करना चाहिए।
+[यह]{}”it(icl>thing)"(PRON,INANI,3SG,SUB,yaha)<H,0,0>;यह एक किताब है।
+[यह]{}”it(icl>living thing)"(PRON,PERSPRON,NOMNTV,ANIMT,3SG,SUB,IT,yaha)<H,0,0>;यह एक बिल्ली है।
+[इसे]{}”it(icl>living thing)"(PRON,ANIMT,NOMNTV,BASE,3SG,SUB,IT,ise)<H,0,0>;इसे दूध पीना है।
+[इन्हें]{}”he"(PRON,ANIMT,NOMNTV,PERSPRON,3SG,M,RESPECT,CLOSE,HE,inheM)<H,0,0>;इन्हें स्कूल जाना चाहिए।
+[इन्हें]{}”she"(PRON,ANIMT,NOMNTV,PERSPRON,3SG,F,RESPECT,CLOSE,SHE,inheM)<H,0,0>;इन्हें स्कूल जाना चाहिए।
+[उन्हें]{}”he"(PRON,ANIMT,NOMNTV,PERSPRON,3SG,M,RESPECT,HIM,DISTANT,unheM)<H,0,0>;उन्हें घर जाना है।
+[उन्हें]{}”she"(PRON,ANIMT,NOMNTV,PERSPRON,3SG,M,RESPECT,HER,DISTANT,unheM)<H,0,0>;उन्हें खाना खाना है।
+[इसे]{}”she"(PRON,ANIMT,NOMNTV,PERSPRON,3SG,F,CLOSE,SHE,ise)<H,0,0>;इसे स्कूल जाना चाहिए।
+[इसे]{}”he"(PRON,ANIMT,NOMNTV,PERSPRON,3SG,F,CLOSE,HE,ise)<H,0,0>;इसे स्कूल जाना चाहिए।
+[उसे]{}”he"(PRON,ANIMT,NOMNTV,PERSPRON,3SG,M,DISTANT,HE,use)<H,0,0>;उसे जाना चाहिए।
+[उसे]{}”she"(PRON,ANIMT,NOMNTV,PERSPRON,PERSPRON,3SG,F,DISTANT,SHE,use)<H,0,0>;उसे जाना चाहिए।
+[इसको]{}”he"(PRON,ANIMT,NOMNTV,PERSPRON,isako)<H,0,0>;इसको जाना चाहिए।
+[उसको]{}”he"(PRON,ANIMT,NOMNTV,PERSPRON,usako)<H,0,0>;उसको जाना चाहिए।
+[मुझे]{}”I(icl>one person)”(PRON,PERSPRON,ACC,ANIMT,1SG,ME,muJe)<H,0,0>;वह मुझे बुलाता है।
+[मुझको]{}”I”(PRON,PERSPRON,ACC,ANIMT,1SG,ME,muJako)<H,0,0>;वह मुझको डराता है।
+[हमें]{}”we"(PRON,PERSPRON,ACC,ANIMT,1PL,US,hameM)<H,0,0>;राम हमें बुला रहा है।
+[हमसे]{}”we"(PRON,PERSPRON,ACC,ANIMT,1PL,US,hamase)<H,0,0>;शीला हमसे प्रेम करती है। 
+[तुझको]{}”you(icl>one person)"(PRON,PERSPRON,ACC,ANIMT,2SG,YOU,wuJako)<H,0,0>;गोपाल तुझको स्कूल भेजता है।
+[तुमको]{}”you(icl>one person)"(PRON,PERSPRON,ACC,ANIMT,2SG,YOU,wumako)<H,0,0>;गोपाल तुमको बुला रहा है।
+[तुमसे]{}”you(icl>one person)"(PRON,PERSPRON,ACC,ANIMT,2SG,YOU,wumase)<H,0,0>;तुमसे राधा प्रेम करती है।
+[आपसे]{}”you(icl>one person)"(PRON,PERSPRON,ACC,ANIMT,2SG,RESPECT,YOU,Apase)<H,0,0>;गोपाल आपसे मिलता है।
+[उसे]{}”he"(PRON,ANIMT,PERSPRON,ACC,3SG,M,HIM,use)<H,0,0>;हमें उसे शादी में बुलाना चाहिए। 
+[उसे]{}”she"(PRON,ANIMT,PERSPRON,ACC,PERSPRON,3SG,F,HER,use)<H,0,0>;हमें उसे शादी में बुलाना चाहिए। 
+[उसको]{}”he"(PRON,ANIMT,PERSPRON,ACC,M,HIM,usako)<H,0,0>;राम उसको बुला रहा है।
+[उसको]{}”she"(PRON,ANIMT,PERSPRON,ACC,F,HER,usako)<H,0,0>;राम उसको बुला रहा है।
+[इन्हें]{}”he"(PRON,ANIMT,PERSPRON,ACC,3SG,M,CLOSE,RESPECT,HIM,inheM)<H,0,0>;मैं इन्हें बुला रहा था।
+[इन्हें]{}”she"(PRON,ANIMT,PERSPRON,ACC,3SG,F,CLOSE,RESPECT,HER,inheM)<H,0,0>;मैं इन्हें बुला रहा था।
+[इसे]{}”he"(PRON,ANIMT,PERSPRON,ACC,3SG,M,HIM,CLOSE,ise)<H,0,0>;मैं इसे बुला रहा था।
+[इसे]{}”she"(PRON,ANIMT,PERSPRON,ACC,3SG,F,HER,CLOSE,ise)<H,0,0>;मैं इसे बुला रहा था।
+[उन्हें]{}”he"(PRON,ANIMT,PERSPRON,ACC,3SG,M,RESPECT,HIM,DISTANT,unheM)<H,0,0>;मैंने उन्हें बुलाया था।
+[उन्हें]{}”she"(PRON,ANIMT,PERSPRON,ACC,3SG,M,RESPECT,HER,DISTANT,unheM)<H,0,0>;मैंने उन्हें बुलाया था।
+[उन लोगों को]{}”they(icl>persons)"(PRON,PERSPRON,ACC,ANIMT,THEM,una logoM ko)<H,0,0>;वह उन लोगों को बुलाता है।
+[उन्हें]{}”they(icl>persons)”(PRON,PERSPRON,ACC,ANIMT,3PL,THEM,unheM)<H,0,0>;राधा उन्हें बुला रही है।
+[उन्हें]{}”they(icl>things)"(PRON,PERSPRON,ACC,INANI,3PL,THEM,DISTANT,unheM)<H,0,0>;उन्हें वहाँ रख दो।
+[इन्हें]{}”they(icl>things)"(PRON,PERSPRON,ACC,INANI,THEM,CLOSE,inheM)<H,0,0>;इन्हें वहाँ रख दो।
+[उनको]{}”they(icl>persons)"(PRON,PERSPRON,ACC,ANIMT,3PL,THEM,unako)<H,0,0>;कृपया उनको बुलाईये।
+[इनको]{}”they(icl>persons)"(PRON,PERSPRON,ACC,ANIMT,CLOSE,THEM,inako)<H,0,0>;दावत में इनको भी बुलाईये।
+[इसे]{}”it"(PRON,INANI,ACC,PERSPRON,3SG,IT,ise)<H,0,0>;इसे रंग दो।
+[इसे]{}”it"(PRON,ANIMT,PERSPRON,ACC,3SG,IT,ise)<H,0,0>;वह इसे(कुत्ता)बुला रहा था।
+[इसको]{}”it”(PRON,ANIMT,PERSPRON,ACC,3SG,IT,isako)<H,0,0>;वह इसको बाजार में बेंच रहा था।
+[इसको]{}”it”(PRON,INANI,PERSPRON,ACC,3SG,IT,isako)<H,0,0>;इसको बेचना कठिन है।
+[मुझे]{}”I(icl>one person)”(PRON,PERSPRON,DAT,ANIMT,1SG,ME,muJe)<H,0,0>;मुझे एक अच्छी किताब दो। 
+[मुझको]{}”I(icl>one person)”(PRON,PERSPRON,DAT,ANIMT,1SG,ME,muJako)<H,0,0>;उसने मुझको एक किताब दी। 
+[हमें]{}”we(icl>persons)"(PRON,PERSPRON,DAT,ANIMT,1PL,US,hameM)<H,0,0>;वह एक किताब हमें देना चाहता है। 
+[हमको]{}”we(icl>persons)"(PRON,PERSPRON,DAT,ANIMT,1PL,US,hamako)<H,0,0>;गोपाल हमको एक किताब देता है। 
+[तुझे]{}”you(icl>one person)"(PRON,PERSPRON,DAT,ANIMT,2SG,YOU,wuJe)<H,0,0>;मै तुझे एक पेन देता हूँ।
+[उसे]{}”he(icl>one person)"(PRON,ANIMT,PERSPRON,DAT,3SG,M,HIM,use)<H,0,0>;मैने उसे एक कलम दी।
+[उसे]{}”she(icl>one person)"(PRON,ANIMT,PERSPRON,DAT,PERSPRON,3SG,F,HER,use)<H,0,0>;मैने उसे एक कलम दी।
+[इन्हें]{}”he(icl>one person)"(PRON,ANIMT,PERSPRON,DAT,3SG,M,CLOSE,RESPECT,HIM,inheM)<H,0,0>;इन्हें एक पुस्तक दीजिए।
+[इन्हें]{}”she(icl>one person)"(PRON,ANIMT,PERSPRON,DAT,3SG,M,CLOSE,RESPECT,HER,inheM)<H,0,0>;इन्हें एक पुस्तक दीजिए।
+[इसे]{}”he(icl>one person)"(PRON,ANIMT,PERSPRON,DAT,3SG,M,HIM,CLOSE,ise)<H,0,0>;इसे एक गेंद दीजिए।
+[इसे]{}”she(icl>person)"(PRON,ANIMT,PERSPRON,DAT,3SG,F,HER,CLOSE,ise)<H,0,0>;इसे एक गेंद दीजिए।
+[उसको]{}”he(icl>person)"(PRON,ANIMT,PERSPRON,DAT,M,HIM,usako)<H,0,0>;मैने उसको सौ रूपये उधार दिए।
+[उसको]{}”she(icl>person)"(PRON,ANIMT,PERSPRON,DAT,F,HER,usako)<H,0,0>;मैने उसको सौ रूपये उधार दिए।
+[उन्हें]{}”he(icl>person)"(PRON,ANIMT,PERSPRON,DAT,3SG,M,RESPECT,HIM,DISTANT,unheM)<H,0,0>;उन्हें एक किताब दें।
+[उन्हें]{}”she(icl>person)"(PRON,ANIMT,PERSPRON,DAT,3SG,M,RESPECT,HER,DISTANT,uinheM)<H,0,0>;उन्हें एक किताब दें।
+[उन्हें]{}”they(icl>persons)”(PRON,PERSPRON,DAT,ANIMT,3PL,THEM,unheM)<H,0,0>;राधा ने उन्हें मिठाई दी।
+[उनको]{}”they(icl>persons)"(PRON,PERSPRON,DAT,INANI,3PL,DISTANT,THEM,unako)<H,0,0>;यह काम उनको सौपना चाहिए।
+[उनसे]{}”they(icl>persons)"(PRON,PERSPRON,DAT,ANIMT,THEM,DISTANT,unase)<H,0,0>;कृपया उनसे यह बात कह दीजिए।
+[इसे]{}”it(icl>living thing)"(PRON,ANIMT,PERSPRON,DAT,3SG,IT,ise)<H,0,0>;वह इसे (कुत्ता) रोटी खिला रहा था।
+[इसको]{}”it(icl>living thing)"(PRON,ANIMT,PERSPRON,DAT,3SG,IT,isako)<H,0,0>;वह इसको रोटी खिला रहा था।
+[इनसे]{}”they(icl>persons)"(PRON,PERSPRON,DAT,ANIMT,THEM,CLOSE,inase)<H,0,0>;कृपया इनसे यह बात कह दीजिए।
+[मेर्]{}”I”(PRON,ANIMT,GENTV,GENTV_ATTRBTV,MY,merA)<H,0,0>;मेरा स्कूल सबसे अच्छा है।
+[अपन्]{}”I”(PRON,ANIMT,GENTV,GENTV_ATTRBTV,MY,apanA)<H,0,0>;मैं अपना खाना खाता हूँ।  
+[हमार्]{}”we"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,OUR,hamArA)<H,0,0>;यह हमारा घर हैं। /हमारा स्कूल अच्छा है।
+[तुम्हार्]{}”you"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,YOUR,wumhArA)<H,0,0>;तुम्हारा स्कूल अच्छा है।
+[तुम लोगों का]{}”you"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,YOUR,wuma logoM kA)<H,0,0>;तुम लोगों का स्वभाव अच्छा है।
+[तेर्]{}”you"(PRON,ANIMT,,GENTV,GENTV_ATTRBTV,YOUR,werA)<H,0,0>;तेरा स्कूल अच्छा है।
+[अपने]{}”you"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,YOUR,apane)<H,0,0>;गोपाल, अपने स्कूल जाओ।
+[आपक्]{}”you(icl>one person)"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,RESPECT,YOUR,ApakA)<H,0,0>;आपका घर सुन्दर है।
+[उसक्]{}”he"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,HIS,usakA)<H,0,0>;उसका घर सुन्दर है।
+[उसक्]{}”she"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,HER,usakA)<H,0,0>;उसका रंग गोरा है।
+[उनकी]{}”he"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,RESPECT,HIS,unakI)<H,0,0>;उनकी किताब अच्छी है।
+[उनकी]{}”she"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,RESPECT,HER,unkaI)<H,0,0>;उनकी साड़ी सुन्दर है।
+[उनके]{}”he"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,RESPECT,HIS,unake)<H,0,0>;उनके कपड़े अच्छे हैं।
+[उनके]{}”she"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,RESPECT,HER,unake)<H,0,0>;उनके कपड़े अच्छे हैं।
+[इनकी]{}”he"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,RESPECT,HIS,inakI)<H,0,0>;इनकी किताब अच्छी है।
+[इनकी]{}”she"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,RESPECT,HER,inakI)<H,0,0>;इनकी किताब अच्छी है।
+[अपने]{}”he(PRON,ANIMT,GENTV,GENTV_ATTRBTV,HIS,apane)H,0,0>;गोपाल अपने स्कूल जाता है।
+[अपने]{}”she(PRON,ANIMT,GENTV,GENTV_ATTRBTV,HER,apane)H,0,0>;शीला अपने स्कूल जाती है।
+[अपन्]{}”he(PRON,ANIMT,GENTV,GENTV_ATTRBTV,HIS,apanA)H,0,0>;गोपाल अपना पाठ याद करता है।
+[अपन्]{}”she(PRON,ANIMT,GENTV,GENTV_ATTRBTV,HER,apanA)H,0,0>;शीला अपना पाठ याद करती है।
+[इनक्]{}”they"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,HIS,RESPECT,inakA)<H,0,0>;इनका घर सुंदर क्या है।
+[इनक्]{}”they"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,HER,RESPECT,inakA)<H,0,0>;इनका घर सुंदर क्या है।
+[इसक्]{}”it"(PRON,GENTV,GENTV_ATTRBTV,ITS,isakA)<H,0,0>;इसका रंग काला है।
+[उनक्]{}”they"(PRON,GENTV,GENTV_ATTRBTV,THEIR,unakA)<H,0,0>;उनका झुंड आ रहा है।
+[उनके]{}”they"(PRON,GENTV,GENTV_ATTRBTV,THEIR,unake)<H,0,0>;उनके(पेड़ों के)पत्ते मुलायम हैं।
+[इनके]{}”he"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,HIS,inake)<H,0,0>;इनके बाल सफेद हैं।
+[इनके]{}”they"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,THEIR,inake)<H,0,0>;इनके घर सुंदर हैं।
+[इन लोगों का]{}”they"(PRON,ANIMT,GENTV,GENTV_ATTRBTV,THEIR,ina logoM kA)<H,0,0>;इन लोगों का काम ठीक नही है।
+[मेरा]{}”I”(PRON,ANIMT,GENTV,GENTV_PREDCTV,MINE,merA)<H,0,0>;यह स्कूल मेरा है।
+[हमारा]{}”we"(PRON,ANIMT,GENTV,GENTV_PREDCTV,M,OURS,hamArA)<H,0,0>;यह स्कूल हमारा है।
+[अपन्]{}”we"(PRON,ANIMT,GENTV,GENTV_PREDCTV,OURS,apanA)<H,0,0>;यह स्कूल अपना है।
+[तुम्हार्]{}"you(icl>one person)"(PRON,ANIMT,GENTV,GENTV_PREDCTV,YOURS,wumhArA)<H,0,0>;यह स्कूल तुम्हारा है।
+[आपक्]{}”you(icl>one person)"(PRON,ANIMT,GENTV,GENTV_PREDCTV,RESPECT,YOURS,ApakA)<H,0,0>;यह स्कूल आपका है।
+[उसक्]{}”she"(PRON,ANIMT,GENTV,GENTV_PREDCTV,HERS,usakA)<H,0,0>;यह घर उसका है।
+[उनक्]{}”they(icl>persons)"(PRON,GENTV,GENTV_PREDCTV,THEIRS,unakA)<H,0,0>;यह घर उनका है।
+[स्वयं]{}”I”(PRON,REFLEXIVE,MYSELF,svayaM)<H,0,0>;मैं स्वयं स्कूल जाता हूँ।
+[खुद]{}”I”(PRON,REFLEXIVE,MYSELF,Kuxa)<H,0,0>;मुझे खुद ही स्कूल जाना चाहिए।
+[अपने आप]{}”I”(PRON,REFLEXIVE,MYSELF,apane Apa)<H,0,0>;मैं अपने आप काम करता हूँ। 
+[अपने से]{}”we"(PRON,REFLEXIVE,OURSELF,apane se)<H,0,0>;हमें अपना काम अपने से करना चाहिए ।
+[अपने आप]{}”we"(PRON,REFLEXIVE,OURSELF,apane Apa)<H,0,0>;हमें अपने आप जागना चाहिए। 
+[अपने आप]{}”you(icl>one person)"(PRON,REFLEXIVE,YOURSELF,SG,apane Apa)<H,0,0>;तुम्हें अपने आप स्कूल जाना चाहिए।
+[अपने आप]{}”you(icl>one persons)"(PRON,REFLEXIVE,YOURSELF,PL,apane Apa)<H,0,0>;तुम लोगों को अपने आप स्कूल जाना चाहिए।
+[अपने से]{}”you(icl>one person)"(PRON,REFLEXIVE,YOURSELF,SG,apane se)<H,0,0>;तुम्हें अपने से स्कूल जाना चाहिए।
+[अपने से]{}”you(icl>one persons)"(PRON,REFLEXIVE,YOURSELF,PL,apane se)<H,0,0>;तुम लोगों को अपने से स्कूल जाना चाहिए।
+[स्वयं से]{}”you(icl>one person)"(PRON,REFLEXIVE,YOURSELF,SG,svayaM se)<H,0,0>;तुम सारा काम स्वयं से करो।
+[स्वयं से]{}”you(icl>one persons)"(PRON,REFLEXIVE,YOURSELF,PL,svayaM se)<H,0,0>;तुम लोग सारा काम स्वयं से करो।
+[अपने से]{}”you(icl>one person)"(PRON,REFLEXIVE,YOURSELF,SG,apane se)<H,0,0>;तुम अपने से पढ़ो।
+[अपने से]{}”you(icl>one persons)"(PRON,REFLEXIVE,YOURSELF,PL,apane se)<H,0,0>;तुम लोग अपने से पढ़ो।
+[अपने आप]{}”he"(PRON,REFLEXIVE,HIMSELF,apane Apa)<H,0,0>;गोपाल अपने आप काम करता है।
+[अपने से]{}”he"(PRON,REFLEXIVE,HIMSELF,apanese)<H,0,0>;गोपाल अपने से काम करता है।
+[अपने आप]{}”she"(PRON,REFLEXIVE,HERSELF,apane Apa)<H,0,0>;शीला अपने आप काम करती है।
+[अपने से]{}”she"(PRON,REFLEXIVE,HERSELF,apanese)<H,0,0>;शीला अपने से काम करती है।
+[अपनेसे]{}”it(icl>thing)”(PRON,REFLEXIVE,ITSELF,apane se)<H,0,0>;कार अपनेसे रुक जाती है।
+[अपने आप]{}”it(icl>thing)”(PRON,REFLEXIVE,ITSELF,apane Apa)<H,0,0>;डाल अपने आप टूट गई।
+[स्वतः]{}"it(icl>thing)"(PRON,REFLEXIVE,ITSELF,svawaH)<H,0,0>;मशीन स्वतः चलने लगी।
+[स्वयं]{}”it(icl>thing)"(PRON,REFLEXIVE,ITSELF,svayaM)<H,0,0>;मशीन स्वयं चलने लगी।
+[स्वयं से]{}”they(icl>persons)"(PRON,REFLEXIVE,THEMSELVES,svayaM se)<H,0,0>;वे स्वयं से खेत जोत रहे हैं।
+[अपने आप]{}”they(icl>persons)"(PRON,REFLEXIVE,THEMSELVES,apane Apa)<H,0,0>;उन लोगों को अपने आप यह काम करन होगा।
+[स्वयं से]{}”one"(PRON,REFLEXIVE,ONESELF,svayaM se)<H,0,0>;कोई स्वयं से पूछे यह बात हैं।
+[अपने आप]{}”one"(PRON,REFLEXIVE,ONESELF,apane Apa)<H,0,0>;किसी को अपने आप यह काम करना है।
+[यह]{}”this"(PRON,DEMON,NOMNTV,THIS,SG,yaha)<H,0,0>;यह एक किताब है।
+[वह]{}”that"(PRON,DEMON,NOMNTV,THAT,SG,vaha)<H,0,0>;वह एक किताब है।
+[वे]{}”those"(PRON,DEMON,THOSE,MANY,PL,ve)<H,0,0>;वे बच्चे हैं।
+[ये]{}”these"(PRON,DEMON,THESE,MANY,PL,ye)<H,0,0>;ये किताबें हैं।              
+[वो]{}”those"(PRON,DEMON,THOSE,MANY,PL,vo)<H,0,0>;वो किताबें हैं।
+[कोई]{}”someone"(PRON,ANIMT,INDEF,SOMEONE,koI)<H,0,0>;कोई आ रहा है।
+[कोई]{}”somebody"(PRON,ANIMT,INDEF,SOMEBODY,koI)<H,0,0>;कोई जा रहा है।
+[कोई भी]{}”anyone"(PRON,ANIMT,INDEF,SUB,ANYONE,koI BI)<H,0,0>;कोई भी किताब पढ़ सकता है।
+[कोई भी]{}”anybody"(PRON,ANIMT,INDEF,SUB,ANYBODY,koI BI)<H,0,0>;कोई भी जा सकता है।
+[दोनों]{}”both(icl>persons)"(PRON,ANIMT,INDEF,SUB,BOTH,xonoM)<H,0,0>;मेरे दो भाई है, दोनों लंदन में है।
+[कोई नहीं]{}”no one"(PRON,ANIMT,INDEF,NO_ONE,koI nahIM)<H,0,0>;कोई नहीं आएगा।
+[कोई भी नहीं]{}”no one"(PRON,ANIMT,INDEF,SUB,NO_ONE,koI BI nahIM)<H,0,0>;वहाँ कोई भी नहीं है।
+[कोई नहीं]{}”nobody"(PRON,ANIMT,INDEF,SUB,NOBODY,koI nahIM)<H,0,0>;कोई नहीं जा रहा है।
+[कोई नहीं]{}”no one"(PRON,ANIMT,INDEF,SUB,NO_ONE,koI nahIM)<H,0,0>;कोई नहीं जा रहा है।
+[कोई न कोई]{}”somebody"(PRON,ANIMT,INDEF,SOMEBODY,koI na koI)<H,0,0>;कोई न कोई आज स्कूल जाएगा।
+[कोई न कोई]{}”someone"(PRON,ANIMT,INDEF,SOMEONE,koI na koI)<H,0,0>;कोई न कोई आज स्कूल जाएगा।
+[किसी]{}”anybody"(PRON,ANIMT,INDEF,ANYBODY,kisI)<H,0,0>;किसी से यह बात मत कहना।*
+[किसी]{}”somebody"(PRON,ANIMT,INDEF,SOMEBODY,kisI)<H,0,0>;किसी की तबियत ख़राब है।
+[किसी]{}”someone"(PRON,ANIMT,INDEF,SOMEONE,kisI)<H,0,0>;किसी के लिये है यह मिठाई।
+[किसी-किसी]{}”somebody"(PRON,ANIMT,INDEF,SOMEBODY,kisI-kisI)<H,0,0>;किसी-किसी के साथ ऐसा होता है।   
+[किसी न किसी]{}"someone"(PRON,ANIMT,INDEF,SUB,SOMEONE,kisI_na_kisI ko)<H,0,0>;किसी न किसी को स्कूल जाना है।
+[किसी न किसी]{}”somebody"(PRON,ANIMT,INDEF,SOMEBODY,kisI_na_kisI)<H,0,0>;किसी न किसी को किताब पढ़नी है।
+[किन्ही-किन्ही लोगों]{}"somebody"(PRON,ANIMT,INDEF,SOMEBODY,kinhI-kinhI logoM)<H,0,0>;किन्हीं-किन्हीं लोगों से ये गलतियाँ होती हैं।
+[किसी-किसी]{}”someone"(PRON,ANIMT,INDEF,SOMEONE,kisI-kisI)<H,0,0>;किसी-किसी से यह काम नहीं होता।
+[किसी में नहीं]{}”no one"(PRON,ANIMT,INDEF,NO_ONE,kisI meM nahIM)<H,0,0>;किसी में नहीं है दम। 
+[और कोई]{}”someone else"(PRON,INDEF,SOMEONE ELSE,Ora koI)<H,0,0>;वहाँ और कोई है। 
+[कुछ]{}”something"(PRON,INANI,INDEF,SOMETHING,kuCa)<H,0,0>;कुछ होना चाहिए।
+[कुछ]{}”anything"(PRON,INANI,INDEF,OBJ,ANYTHING,kuCa)<H,0,0>;क्या आपके बैग में कुछ है।
+[कुछ न कुछ]{}”something"(PRON,INANI,INDEF,SOMETHING,kuCa na kuCa)<H,0,0>;आज कुछ न कुछ होगा।
+[कुछ भी]{}”anything"(PRON,INANI,INDEF,ANYTHING,kuCa BI)<H,0,0>;गोपाल कुछ भी कह सकता है।
+[काफ़ी]{}”enough"(PRON,INANI,INDEF,ENOUGH,kAPZI)<H,0,0>;यह काफ़ी है।
+[प्रत्येक व्यक्ति]{}"everybody"(PRON,ANIMT,INDEF,SUB,EVERYBODY,prawyeka vyakwwi)<H,0,0>;प्रत्येक व्यक्ति घर में है।
+[प्रत्येक]{}"everybody"(PRON,ANIMT,INDEF,SUB,EVERYBODY,prawyeka)<H,0,0>;प्रत्येक को घर जाना है।
+[हर एक]{}”everyone"(PRON,ANIMT,INDEF,SUB,EVERYONE,hara eka)<H,0,0>;हर एक को घर जाना है।
+[सबकुछ]{}”evrything"(PRON,INANI,INDEF,EVERYTHING,sabakuCa)<H,0,0>;गोपाल के पास सबकुछ है।
+[कुछ लोग]{}”some"(PRON,INANI,INDEF,SOME,kuCa loga)<h,0,0>;कुछ लोगों ने खेल में भाग लिया।
+[कुछ]{}”some"(PRON,INANI,INDEF,SOME,kuCa)<h,0,0>;अलमारी में तुम्हें कुछ मिलेगा।
+[कुछ लोग]{}”few"(PRON,INANI,INDEF,FEW,kuCa loga)<h,0,0>;कुछ लोगों ने गंगा स्नान किया।
+[कुछ]{}”few"(PRON,INANI,INDEF,FEW,kuCa)<H,0,0>;उन किताबों में से कुछ पढ़ने लायक हैं।
+[कुछ लोग]{}”the few"(PRON,INANI,INDEF,THE_FEW,kuCa loga)<H,0,0>;यह किताबें कुछ लोगों की हैं।
+[कुछ एक]{}”a few"(PRON,ANIMT,INDEF,A_FEW,kuCa eka)<H,0,0>;इन आदमियों में कुछ एक ही को मैं जानता हूँ।
+[कुछ]{}”a few"(PRON,ANIMT,INDEF,A_FEW,kuCa)<H,0,0>;क्या तुम मुझे कुछ और जानकारी दोगे।
+[कइयों]{}”many"(PRON,ANIMT,INDEF,MANY,kaiyoM)<H,0,0>;दवा से कइयों को लाभ है।
+[थोड़ा ही]{}”little"(PRON,INANI,INDEF,LITTLE,WodZA hI)<H,0,0>;उसने जो कहा मैंने थोड़ा ही समझा है।
+[थोड़ा]{}”little"(PRON,INANI,INDEF,LITTLE,WodZA)<H,0,0>;मैं उसको थोड़ा समझ पाया था।
+[थोड़ा सा]{}”a little"(PRON,INDEF,A_LITTLE,WodZA sA)<H,0,0>;थोड़ा सा बोलिए।
+[अधिक]{}”much”(PRON,INDEF,MUCH,aXika)<H,0,0>;गर्मी है लेकिन अधिक नही।
+[अधिक]{}”a lot"(PRON,INDEF,A_LOT,aXika)<H,0,0>;गोपाल अधिक बोलता है। 
+[बहुत]{}”a lot"(PRON,INDEF,A_LOT,bahuwa)<H,0,0>;गोपाल बहुत बोलता है। 
+[बहुत]{}”plenty"(PRON,INDEF,OBJ,PLENTY,QUAN,bahuwa)<H,0,0>;नही,यह बहुत है।
+[बहुत]{}”many"(PRON,INANI,INDEF,MANY,bahuwa)<H,0,0>;तुम्हारे पास पैसा कम है मेरे पास अधिक है।
+[बहुतों]{}”many"(PRON,ANIMT,INDEF,MANY,bahuwoM)<H,0,0>;सरकार ने ये सुविधा बहुतों के लिए बनाई है।
+[बहुत लोग]{}”many"(PRON,ANIMT,INDEF,MANY,bahuwoM)<H,0,0>;सरकार ने ये सुविधा बहुत लोगों के लिए बनाई है।
+[बहुत ज्यादा]{}”plenty"(PRON,INDEF,PLENTY,QUAN,bahuwa jyAxA)<H,0,0>;माँ हमेशा खाने के लिए बहुत ज्यादा देती है।
+[बहुत अधिक]{}”plenty"(PRON,INDEF,PLENTY,QUAN,bahuwa aXika)<H,0,0>;माँ हमेशा खाने के लिए बहुत  अधिक देती है। है। 
+[ज्यादा]{}”many"(PRON,INANI,INDEF,MANY,bahuwa)<H,0,0>;तुम्हारे पास पैसा कम है मेरे पास ज्यादा है।
+[ज्यादा]{}”much”(PRON,INDEF,MUCH,jyAxA)<H,0,0>;गर्मी है लेकिन ज्यादा नही।
+[one]{}”one(icl>thing)"(PRON,INDEF,ONE)<H,0,0>;
+[आपस में]{}”each other"(PRON,RECIPROCAL,EACH_OTHER,Apasa meM)<H,0,0>;वे आपस में झगड़ा करते हैं।
+[एक दूसरे से]{}”each other"(PRON,RECIPROCAL,EACH_OTHER,eka xUsare se)<H,0,0>;एक दूसरे से प्रेम करो।
+[एक दूसरे का]{}”one another"(PRON,RECIPROCAL,ONE_ANOTHER,eka xUsare kA)<H,0,0>;एक दूसरे का आदर करो।
+[एक दूसरे की]{}”one another"(PRON,RECIPROCAL,ONE_ANOTHER,eka xUsare kI)<H,0,0>;हमें एक दूसरे की रक्षा करनी चाहिए।
+[एक दूसरे के]{}”one another"(PRON,RECIPROCAL,ONE_ANOTHER,eka xUsare ke)<H,0,0>;हमें एक दूसरे के ख़ातिर प्रेम रखना चाहिए।।
+[एक दूसरे को ]{}”each other"(PRON,RECIPROCAL,EACH_OTHER,eka xUsare ko)<H,0,0>;वे एक दूसरे को प्रेम करते हैं।
+[कौन]{}”who”(PRON,INTERO,WH-WORD,WHO,kOna)<H,0,0>;कौन आया?
+[क्या]{}”what”(PRON,INTERO,WH-WORD,WHAT,kyA)<H,0,0>;क्या हुआ?
+[किसका]{}”whose"(ADJ,INTERO,WH-WORD,WHOSE,kisakA)<H,0,0>;किसका नाम गोपाल है?
+[किसके]{}”who”(PRON,INTERO,WH-WORD,WHO,kisake)<H,0,0>;किसके पास किताब हैं?
+[किनका]{}”whose"(PRON,INTERO,WH-WORD,WHOSE,inake)<H,0,0>;किनका स्कूल बंद हैं?
+[किनके]{}”who”(PRON,INTERO,WH-WORD,WHO,kinake)<H,0,0>;किनके पास किताब नहीं हैं?
+[किसे]{}”whom”(PRON,INTERO,WH-WORD,WHOM,kise)<H,0,0>;किसे पुकार रहे हो?
+[किन्हें]{}”whom”(PRON,INTERO,WH-WORD,WHOM,kinheM)<H,0,0>;तुम आज किन्हें बुलाओगे?
+[किसने]{}”who”(PRON,INTERO,WH-WORD,WHO,kisane)<H,0,0>;किसने खाना खाया है?
+[किस]{}”whom”(PRON,INTERO,WH-WORD,WHOM,kisa)<H,0,0>;किस पर भरोसा किया जाय?
+[यदि]{}”if"(PRON,RELATIVE,WH-WORD,IF,CNDNL,yaxi)<H,0,0>;यदि गोपाल नहीं आया तो? *
+[अगर]{}”if”(PRON,RELATIVE,WH-WORD,IF,CNDNL,agara)<H,0,0>;अगर गोपाल नहीं आया तो? *
+[किसको]{}”whom"(PRON,INTERO,WH-WORD,WHOM,kisako)<H,0,0>;किसको बुलाना है?
+[किसको]{}”who"(PRON,INTERO,WH-WORD,WHO,kisako)<H,0,0>;किसको स्कूल जाना है?
+[किस]{}”what"(ADJ,INTERO,WH-WORD,WHAT,kisa)<H,0,0>;किस जगह जाना है?
+[किस]{}”which"(ADJ,INTERO,WH-WORD,WHICH,kisa)<H,0,0>;किस जगह जाना है?
+[कितना]{}”what"(ADJ,INTERO,WH-WORD,WHAT,kiwanA)<H,0,0>;कितना धन है तुम्हारे पास? 
+[कितनी]{}”how"(ADJ,INTERO,WH-WORD,HOW,kiwanI)<H,0,0>;ये कितनी लम्बी रस्सी है?
+[कितने]{}”how many"(ADJ,INTERO,INTER,WH-WORD,HOW,kiwane)<H,0,0>;यहाँ कितने स्कूल हैं?  
+[क्यों]{}”why"(ADV,INTERO,WH-WORD,WHY,kyoM)<H,0,0>;तुम घर क्यों जाओगे? 
+[कहाँ]{}”where"(ADV,INTERO,WH-WORD,WHERE,kahAMz)<H,0,0>;कहाँ जाना है?
+[किधर]{}”where"(ADV,INTERO,WH-WORD,WHERE,kiXara)<H,0,0>;किधर जाना है?
+[कैस्]{}”how"(ADV,INTERO,WH-WORD,HOW,kEsA,AdvA)<H,0,0>;तुम्हारा स्कूल कैसा है?
+[कितन्]{}”how much"(ADJ,INTERO,WH-WORD,HOW_MUCH,kiwanA,AdjAS)<H,0,0>;कितना धन है तुम्हारे पास? 
+[क्या]{}”whether"(PRON,RELATIVE,WH-WORD,WHETHER,kyA)<H,0,0>;उसने पूछा क्या मैं कुछ पीना चाहता था?
+[क्या]{}”if"(PRON,RELATIVE,WH-WORD,IF,kyA)<H,0,0>;उसने पूछा क्या मैं कुछ पीना चाहता था?
+[कौन]{}”who"(PRON,RELATIVE,WH-WORD,WHO,kOna)<H,0,0>;कौन जा रहा है?
+[और]{}”and"(CONJ,JOINING,AND,Ora)<H,0,0>;शीला और गोपाल।
+[फिर]{}”then"(CONJ,JOINING,AND,Pira)<H,0,0>;गोपाल बीमार है फिर वह स्कूल कैसे आया।
+[तथा]{}”and"(CONJ,JOINING,AND,waWA)<H,0,0>;गोपाल तथा शीला।
+[एवं]{}”and"(CONJ,JOINING,AND,evaM)<H,0,0>;गोपाल एवं शीला।
+[भी]{}”too"(CONJ,JOINING,TOO,BI)<H,0,0>;गोपाल भी स्कूल गया था।
+[व]{}”and"(CONJ,JOINING,AND,BI,va)<H,0,0>;गोपाल व शीला।
+[जब]{}”when"(CONJ,JOINING,WHEN,jaba)<H,0,0>;शीला स्कूल गई जब वह बीमार थी।
+[जहाँ]{}”where"(CONJ,JOINING,PLACE,WHERE,jahAMz)<H,0,0>;शीला स्कूल जाती है जहाँ बच्चे पढ़ते हैं।
+[जब कि]{}”whenever"(CONJ,JOINING,WHENEVER,jabaki)<H,0,0>;शीला स्कूल गई जबकि वह बीमार थी। 
+[जबतक कि]{}”until"(CONJ,JOINING,CONDOL,UNTIL,jaba waka ki)<H,0,0>;हम नही जाएँगे जबतक कि तुम वापस नही आते।
+[जबतक]{}”as long as"(CONJ,JOINING,AS_LONG_AS,jabawaka)<H,0,0>;गोपाल चला गया जब तक शीला आती। 
+[जब भी]{}”whenever"(CONJ,JOINING,WHENEVER,jaba BI)<H,0,0>;जब भी मैं जाना चाहती हूँ मैं नही जा पाती।
+[जैसे ही]{}”as soon as"(CONJ,JOINING,as_soon_as,jEse hI)<H,0,0>;गोपाल जैसे ही अन्दर आया चोर भाग गया।
+[हाँला कि]{}”"(CONJ,JOINING,ALTHOUGH,hAMzlA ki)<H,0,0>;जवाब नहीं आया हाँला कि पत्र लिखा है।
+[कहीं से भी]{}”whencesoever"(CONJ,JOINING,WHENSOEVER,kahIM se BI)<H,0,0>;पत्र कहीं से भी आ सकता है।
+[किसी कारण से भी]{}”whencever"(CONJ,JOINING,WHENCEVER,kisI kAraNa se BI)<H,0,0>;वह काम नहीं रना चाहती तो किसी कारण से भी टाल सकती थी।
+[जहाँ कहीं भी]{}”wherever"(CONJ,JOINING,PLACE,WHEREVER,jaba waka ki)<H,0,0>;मैं जहाँ कहीं भी जाती हूँ तुम वहाँ चले आते हो।
+[वा]{}”or"(CONJ,SPAION,OR,vA)<H,0,0>;गोपाल वा शीला।
+[या]{}”or"(CONJ,SPAION,OR,yA)<H,0,0>;गोपाल या शीला।
+[चाहे]{}”or"(CONJ,SPAION,OR,cAhe)<H,0,0>;कॉफी पियो चाहे चाय पियो।
+[अथवा]{}”or"(CONJ,SPAION,OR,aWavA)<H,0,0>;कॉफी पियो अथवा चाय पियो।
+[न कि]{}”not"(CONJ,SPAION,NOT,na ki)<H,0,0>;गोपाल खाना खाने गया है न कि सोने।
+[क्या]{}”what"(CONJ,SPAION,WHAT,kyA)<H,0,0>;स्त्री क्या पुरुष सब बराबर होते हैं।
+[नहीं तो]{}”otherwise"(CONJ,SPAION,OTHERWISE,nahIM wo)<H,0,0>;गोपाल ने दवा खा ली नहीं तो वह ठीक न होता। 
+[कि]{}”that"(CONJ,SPAION,THAT,ki)<H,0,0>;शीला जानती है कि स्कूल बंद है।
+[ऊर्फ]{}”alias”(CONJ,SPAION,ALIAS,urPa)<H,0,0>;
+[लेकिन]{}”but"(CONJ,OPOSIT,BUT,lekina)<H,0,0>;गोपाल आया लेकिन चला गया।
+[मगर]{}”but"(CONJ,OPOSIT,BUT,magara)<H,0,0>;गोपाल आया मगर चला गया।
+[किन्तु]{}”but"(CONJ,OPOSIT,BUT,kinwu)<H,0,0>;शीला आई किन्तु चली गई।
+[परन्तु]{}”but"(CONJ,OPOSIT,BUT,paranwu)<H,0,0>;शीला आई परन्तु चली गई।               
+[वरन्]{}”but"(CONJ,OPOSIT,BUT,varan)<H,0,0>;गोपाल लेखक ही नहीं वरन् चित्रकार भी है।
+[पर]{}”but"(CONJ,OPOSIT,BUT,para)<H,0,0>;तुमने जो भी किया पर अच्छा नहीं किया।
+[बल्कि]{}”but rather"(CONJ,OPOSIT,BUT RATHER,balki)<H,0,0>;गोपाल का घर बल्कि दूर था।
+[नही तो]{}”otherwise"(CONJ,OPOSIT,OTHERWISE,nahI wo)<H,0,0>;जल्दी चलो नही तो बारिश आ जायेगी।
+[वरना]{}”otherwise"(CONJ,OPOSIT,OTHERWISE,varanA)<H,0,0>;जल्दी चलो वरना देर हो जायेगी।
+[अन्यथा]{}”otherwise"(CONJ,OPOSIT,OTHERWISE,varanA)<H,0,0>;जल्दी चलो अन्यथा देर हो जायेगी।
+[इसलिए]{}”because"(CONJ,RESULTATIVE,BECAUSE,isalie)<H,0,0>;गोपाल बीमार था इसलिए वह घर नहीं गया।
+[सो]{}”because"(CONJ,RESULTATIVE,BECAUSE,so)<H,0,0>;गोपाल बीमार था सो वह नहीं आया।
+[अतः]{}”because"(CONJ,RESULTATIVE,BECAUSE,awaH)<H,0,0>;गोपाल बीमार था अतः वह स्कूल नहीं आया।
+[अतएव]{}”so"(CONJ,RESULTATIVE,SO,awaeva)<H,0,0>;गोपाल बीमार है अतएव वह स्कूल नहीं आया।
+[क्योंकि]{}”because"(CONJ,REASON,BECAUSE,kyoMki)<H,0,0>;गोपाल स्कूल नहीं आया क्योंकि वह बीमार है।
+[जोकि]{}”which"(CONJ,REASON,WHICH,joki)<H,0,0>;शीला बारह घंटे काम करती है जोकि कठिन है।
+[इस कारण]{}”so"(CONJ,REASON,SO,isa kAraN)<H,0,0>;गोपाल बीमार है इस कारण वह स्कूल नहीं गया।
+[इसलिए कि]{}”because"(CONJ,REASON,BECAUSE,isalie ki)<H,0,0>;गोपाल स्कूल नहीं आया इसलिए कि वह बीमार था।                                                                             
+[कि]{}”that"(CONJ,PURPOSE,THAT,ki)<H,0,0>;शीला को घर जाना है कि वह खाना बना सके।
+[ताकि]{}”because"(CONJ,PURPOSE,BECAUSE,wAki)<H,0,0>;शीला ने किताब खरीदी ताकि वह पढ़ सके।   
+[इसलिए कि]{}”because"(CONJ,PURPOSE,BECAUSE,isalie ki)<H,0,0>;शीला ने किताब खरीदी इसलिए कि वह पढ़ सके।
+[जिससे]{}”so"(CONJ,PURPOSE,SO,JI_CLAUSE,jisase)<H,0,0>;शीला बीमार थी जिससे वह स्कूल न जा सकी।
+[जो]{}”which"(CONJ,PURPOSE,WHICH,JI_CLAUSE,jo)<H,0,0>;शीला ने वही कहा जो गोपाल ने कहा ता।
+[तो]{}"then"(CONJ,DEMON,THEN,wo)<H,0,0>;गोपाल नहीं आया तो स्कूल नहीं खुलेगा।
+[यदि]{}"if"(CONJ,DEMON,AND,IF,yaxi)<H,0,0>;गोपाल नहीं आएगा यदि वह बीमार है।
+[अगर]{}”if"(CONJ,DEMON,AND,IF,agara)<H,0,0>;गोपाल नहीं आएगा अगर वह बीमार है।
+[यद्यपि]{}”although"(CONJ,DEMON,THOUGH,yadyapi)<H,0,0>;शीला स्कूल गई है यद्यपि वह बीमार है।
+[तो भी]{}”nevertheless"(CONJ,DEMON,NEVERTHELESS,wo BI)<H,0,0>;शीला बीमार थी तो भी वह स्कूल आई।
+[तथापि]{}”nevertheless"(CONJ,DEMON,NEVERTHELESS,waWApi)<H,0,0>;शीला बीमार थी तथापि वह स्कूल आई।
+[फिर भी]{}”nevertheless"(CONJ,DEMON,NEVERTHELESS,Pira BI)<H,0,0>;गोपाल पढ़ता है फिर भी फेल होता है।
+[चाहे]{}”even if"(CONJ,DEMON,EVEN_IF,cAhe)<H,0,0>;गोपाल चाहे बीमार हो लेकिन वह स्कूल अवश्य आयेगा।
+[तथापि]{}”nevertheless"(CONJ,DEMON,NEVERTHELESS,waWApi)<H,0,0>;गोपाल स्कूल गया तथापि वह बीमार था।   
+[कि]{}”that"(CONJ,DEMON,THAT,ki)<H,0,0>;गोपाल जाने ही वाला था कि शीला आ गई।
+[अर्थात]{}”because"(CONJ,FORM,because,arWAwa)<H,0,0>;गोपाल स्कूल नहीं आया अर्थात वह बीमार है। 
+[जो]{}”although"(CONJ,FORM,AS,JI_CLAUSE,jo)<H,0,0>;गोपाल ने भूल की जो वह नहीं आया।
+[कि]{}”that"(CONJ,FORM,THAT,ki)<H,0,0>;गोपाल बोला कि वह स्कूल नहीं जाएगा। 
+[मानो]{}”that"(CONJ,FORM,THAT,ki)<H,0,0>;गोपाल भागा मानो उसी ने चोरी की है। 
+[याने]{}”that"(CONJ,FORM,THAT,ki)<H,0,0>;गोपाल बोल पड़ा याने उसकी तबियत ठीक है। 
+[यानी]{}”that"(CONJ,FORM,THAT,ki)<H,0,0>;गोपाल बीमार है यानी वह नही आएगा। 
+[जब]{}”after"(POSTPOSTN,LANGDIVER-PREP,TIME,AFTER,jaba)<H,0,0>;We'll arrive after you've left.
+[अरे!]{}”oh(scn>surprise)"(INTJ,ASTOMT,OH,INTRO,are)<H,0,0>;अरे!गोपाल तुम यहाँ?
+[अरे कब!]{}”oh when(scn>surprise)"(INTJ,ASTOMT,OH,INTRO,TIME,are kaba)<H,0,0>;अरे कब!यह कैसे हुआ?
+[क्या!]{}”what(scn>surprise)"(INTJ,ASTOMT,WHAT,INTRO,kyA)<H,0,0>;क्या!शीला ने झूठ बोला है?
+[ऐं!]{}”what(scn>surprise)"(INTJ,ASTOMT,INTRO,WHAT,EM)<H,0,0>;ऐं!शीला तुम यहाँ?
+[हूँ!]{}”huh(scn>surprise)"(INTJ,ASTOMT,INTRO,HUH,EM)<H,0,0>;ऐं!शीला तुम यहाँ?
+[ओहो!]{}”oho(scn>surprise)"(INTJ,ASTOMT,EXPLN,oho)<H,0,0>;ओहो!यह तो बहुत बड़ा कुआँ है।
+[आहा!]{}”aha(scn>surprise)"(INTJ,ASTOMT,AHA,EXPLN,aha)<H,0,0>;आहा!वह देखो ईद का चाँद दिख रहा है?
+[हां!]{}”yes(scn>surprise)"(INTJ,ASTOMT,INTRO,YES,hAM)<H,0,0>;हां!वह कुआँ में कूद गया?
+[वाह!]{}”wonderful(scn>surprise)"(INTJ,ASTOMT,WONDERFUL,EXPLN,vAha)<H,0,0>;वाह!गोपाल ने कमाल कर दिया।
+[सच!]{}”really(scn>surprise)"(INTJ,ASTOMT,REALLY,INTRO,saca)<H,0,0>;सच!गोपाल कुआँ में कूद गया? 
+[हैं!]{}”hey(scn>surprise)"(INTJ,ASTOMT,HEY,INTRO,hEM)<H,0,0>;हैं!मुझे इतनी दूर चलना होगा? 
+[बाप रे!]{}”oh(scn>surprise)"(INTJ,ASTOMT,OH,EXPLN,bApare)<H,0,0>;बाप रे!यह तो बहुत मोटा चूहा है।
+[बाप रे बाप!]{}”oh(scn>surprise)"(INTJ,ASTOMT,OH,INTRO,bApa re bApa)<H,0,0>;बाप रे बाप!इतना बड़ा सांप?
+[अह!]{}”wonderful(scn>surprise)"(INTJ,ASTOMT,WONDERFUL,EXPLN,aha)<H,0,0>;अह!यह तो बड़ा ही सुन्दर फूल है।
+[दैया रे!]{}”oh(scn>surprise)"(INTJ,ASTOMT,OH,EXPLN,dEyA re)<H,0,0>;दैया रे!ये तोता तो पूरी बातें करता है।
+[ओ भगवान!]{}”oh my god(scn>surprise)"(INTJ,ASTOMT,OH MY GOD,EXPLN,o BagavAna)<H,0,0>;ओ भगवान!
+[वाह्!]{}”splendid(icl>verygood)"(INTJ,PLSRE,WONDFL,SPLENDID,EXPLN,vAh)<H,0,0>;वाह्!गोपाल घर लौट आया।
+[अहा!]{}”ah(icl>very good)"(INTJ,PLSRE,WONDFL,AH,EXPLN,ahA)<H,0,0>;अहा!आप लोग आ गये।
+[शाबाश!]{}”welldone(icl>very good)"(INTJ,PLSRE,BLESS,WELDONE,EXPLN,ahA)<H,0,0>;शाबाश!गोपाल तुम्हें और पढ़ाई करो।
+[धन्य!]{}”blessing(icl>very good)"(INTJ,PLSRE,BLESS,BLESSING,EXPLN,Xanya)<H,0,0>;धन्य!तुम सब ने अच्छा कार्य किया।
+[जय!]{}”blessing(icl>very good)"(INTJ,PLSRE,LONG LIVE,SPLENDID,EXPLN,jaya)<H,0,0>;जय!गोपाल की आयु लम्बी हो।
+[क्या बात है!]{}”welldone(icl>very good)"(INTJ,PLSRE,WONDFL,WELL DONE,EXPLN,kyA bAwa hE)<H,0,0>;क्या बात है!शीला तुमने बहुत अच्छा गाना गाया है।
+[बहुत ख़ूब!]{}”excelsior(icl>very good)"(INTJ,PLSRE,WONDFL,EXCELSIOR,EXPLN,bahuwa KZUba)<H,0,0>;बहुत ख़ूब!तुम्हारा यह काम मुझे पसंद आया। 
+[बहुत अच्छा!]{}”excelsior(icl>very good)"(INTJ,PLSRE,WONDFL,EXCELSIOR,EXPLN,bahuwa acCA)<H,0,0>;बहुत अच्छा!गोपाल एक गोल और मारो।
+[अतिउत्तम!]{}”excelsior(icl>very good)"(INTJ,PLSRE,WONDFL,EXCELSIOR,EXPLN,awiuwwama)<H,0,0>;अतिउत्तम!गोपाल तुम्हारा यह शोध छपने योग्य है।
+[आह!]{}”ow(scn>distress)"(INTJ,SAD,ALAS,SIGH,OW,EXPLN,Aha)<H,0,0>;आह!मेरे सिर में बहुत तेज दर्द है।
+[ओह!]{}”oh(scn>distress)"(INTJ,SAD,ALAS,SIGH,OW,EXPLN,oha)<H,0,0>;ओह!मेरा सिर दर्द से फटा जा रहा है। 
+[हा!]{}”alas(scn>distress)"(INTJ,SAD,ALAS,LAMENT,EXPLN,hA)<H,0,0>;हा!मेरी सारी किताबें पानी में भीग गयीं।
+[हाय!]{}”alas(scn>distress)"(INTJ,SAD,ALAS,LAMENT,EXPLN,hAya)<H,0,0>;हाय!मेरा सारा समान कोई उठा ले गया।
+[हाय दैया रे!]{}”alas(scn>distress)"(INTJ,SAD,ALAS,CRY,INTRO,hAya dEyA re)<H,0,0>;हाय दैया रे!यह क्या हुआ मेरे बच्चे को?   
+[बाप रे!]{}”alas(scn>distress)"(INTJ,SAD,ALAS,EXPLN,bApa re)<H,0,0>;बाप रे!ऐसी भयंकर बीमारी किसी को न हो।
+[दंइया रे!]{}”alas(scn>distress)"(INTJ,SAD,ALAS,CRY,EXPLN,xaMiyA re)<H,0,0>;दंइया रे!मैं लुट गया,बरबाद हो गया।
+[माँई रे!]{}”alas(scn>distress)"(INTJ,SAD,ALAS,CRY,EXPLN,SIGH,mAMzI re)<H,0,0>;माँई रे!मेरे सिर में बहुत दर्द हो रहा है।
+[ओ माँ!]{}”alas(scn>distress)"(INTJ,SAD,ALAS,EXPLN,SIGH,o mAMz)<H,0,0>;ओ माँ!यह लड़का तो एकदम पागल हो गया।
+[ऊह!]{}”ouch(scn>distress)"(INTJ,SAD,PAIN,EXPLN,SIGH,Uha)<H,0,0>;ऊह!मेरे कमर में बहुत दर्द है।
+[उई!]{}”ouch(scn>distress)"(INTJ,SAD,PAIN,EXPLN,SIGH,F,Uha)<H,0,0>;उई!मेरे पैर में काँटा चुभ गया।
+[उई माँ!]{}”alas(scn>distress)"(INTJ,SAD,ALAS,SIGH,F,Uha)<H,0,0>;उई माँ!मेरा सिर दर्द से फटा जा रहा है।
+[हा-हा!]{}”alas(scn>distress)"(INTJ,SAD,ALAS,CRY,EXPLN,hA-hA)<H,0,0>हा-हा!मेरा पूरा घर आग में जल गया।
+[आह!]{}”oh(scn>distress)"(INTJ,SAD,OH,PAIN,EXPLN,aha)<H,0,0>आह!मेरा हाथ दर्द के कारण उठ नही सकता।
+[ठीक!]{}”okay"(INTJ,ACCEPT,OKAY,EXPLN,TIka)<H,0,0>;ठीक!मैं स्कूल जाता हूँ।
+[बिलकुल!]{}”well"(INTJ,ACCEPT,WELL,EXPLN,bilakula)<H,0,0>;बिलकुल!मैं यह काम कर लूंगा।
+[अच्छा!]{}”good"(INTJ,ACCEPT,GOOD,EXPLN,acCA)<H,0,0>;अच्छा!मैं यह काम कर लूंगा।
+[बहुत अच्छा!]{}”very good"(INTJ,ACCEPT,VERY GOOD,EXPLN,bahuwa acCA)<H,0,0>;बहुत अच्छा!मैं स्कूल जाता हूँ।
+[हाँ!]{}”ah"(INTJ,ACCEPT,AH,EXPLN,hAMz)<H,0,0>;हाँ!मैं स्कूल जाता हूँ।
+[हाँ-हाँ!]{}”yes"(INTJ,ACCEPT,YES,EXPLN,hAMz-hAMz)<H,0,0>;हाँ-हाँ!मैंने तुम्हें बुलाया है।
+[बहुत खूब!]{}”fine(scn>fine)"(INTJ,ACCEPT,GOOD,EXPLN,bahuwa KUba)<H,0,0>;बहुत खूब!यह बात मुझे अच्छी लगी।
+[क्या बात है!]{}”very good(scn>fine)"(INTJ,ACCEPT,GOOD,EXPLN,kyA bAwa hE)<H,0,0>;क्या बात है!तुम्हारा हर जवाब ठीक है।
+[छिह!]{}”boo"(INTJ,SCORN,DISGT,EXPLN,BOO,Ciha)<H,0,0>;छिह!यह जगह बहुत गंदी है।
+[धिक्!]{}”ugh"(INTJ,SCORN,BE OFF,EXPLN,UGH,Xika)<H,0,0>;धिक्!गोपाल यह काम बहुद गंदा है।
+[धत्!]{}”reproof"(INTJ,SCORN,AVERN,EXPLN,REPROOF,Xaw)<H,0,0>;धत्!यह बात सही नहीं है। 
+[दुर!]{}”out of the way"(INTJ,SCORN,OUT OF THE WAY,EXPLN,xura)<H,0,0>;दुर!यहाँ से भाग जाओ।
+[हट!]{}”out of the way"(INTJ,SCORN,AVERN,EXPLN,OUT_OF_THE_WAY,hata)<H,0,0>;हट!यह बात एकदम गलत है।
+[चुप!]{}”stop it"(INTJ,SCORN,WHISP,STOP IT,EXPLN,cupa)<H,0,0>;चुप!अधिक निन्दा मत कर।
+[चुप रहो!]{}”stop it"(INTJ,SCORN,WHISP,STOP IT,EXPLN,cupa)<H,0,0>;
+[भग!]{}”out of the way"(INTJ,SCORN,AVERN,EXPLN,OUT_OF_THE_WAY,Baga)<H,0,0>;भग!अधिक झूठ मत बोल।
+[ऊँह!]{}”"(INTJ,SCORN,DENIAL,EXPLN,UGH,UaMzha)<H,0,0>;ऊँह!गर्मी से मेरा बुरा हाल हो रहा है।
+[ऊँहूँ!]{}”ugh"(INTJ,SCORN,DENIAL,EXPLN,UGH,UaMzhUaMz)<H,0,0>;ऊँहूँ!तुम लोग यहाँ बहुत शोर मचा रहे हो।
+[हाँ-हाँ!]{}”yes"(INTJ,APPRO,YES,EXPLN,hAMz-hAMz)<H,0,0>;हाँ-हाँ!यह मेरी पुस्तक है। 
+[ठीक-ठीक!]{}”all right"(INTJ,APPRO,ALL RIGHT,EXPLN,TIka-TIka)<H,0,0>;ठीक-ठीक!यह सही उत्तर है।
+[ठीक है-ठीक है!]{}”all right"(INTJ,APPRO,ALL RIGHT,EXPLN,TIka hE-TIka hE)<H,0,0>;ठीक है-ठीक है!मैं मालता हूँ कि मैंने झूठ बोला है।
+[अच्छा!]{}”okay"(INTJ,APPRO,OKAY,EXPLN,acCA)<H,0,0>;अच्छा!मैं स्कूल जाता हूँ। 
+[भला!]{}”well"(INTJ,APPRO,WELL,EXPLN,BalA)<H,0,0>;भला!मैं गोपाल को स्कूल भेज दूंगा। 
+[अवश्य!]{}”sure"(INTJ,APPRO,SURE,EXPLN,avaSya)<H,0,0>;अवश्य!तुम घर आ जाना।
+[जी हाँ!]{}”yes"(INTJ,APPRO,YES,EXPLN,jIhAMz)<H,0,0>;जीहाँ!मैं स्कूल गया था।
+[बिलकुल!]{}”sure"(INTJ,APPRO,SURE,EXPLN,bilakula)<H,0,0>;बिलकुल!मैं उस समय स्कूल में ही था।
+[जरूर!]{}”sure"(INTJ,APPRO,SURE,EXPLN,jarUra)<H,0,0>;जरूर!तुम्हारी छुट्टी मंजूर की जाएगी।
+[खैर!]{}”indeed"(INTJ,APPRO,INDEED,INDEED,EXPLN,TIka)<H,0,0>;खैर!मैं कल स्कूल आऊंगा।
+[अस्तु!]{}”very well"(INTJ,APPRO,VERY WELL,VERY WELL,EXPLN,aswu)<H,0,0>;अस्तु!तुमने यह काम अच्छा किया है।
+[जय हो!]{}”hurrh"(INTJ,BLESS,HURRHH,EXPLNjaya ho)<H,0,0>;जय हो!गोपाल तुम विजयी हो।
+[जियो!]{}”well done"(INTJ,BLESS,WELL DONE,EXPLN,jaya ho)<H,0,0>;जियो!तुमने बहुत् अच्छा खेल खेला।
+[खुश रहो!]{}”be happy"(INTJ,BLESS,BE HAPPY,EXPLN,KuSa raho)<H,0,0>;खुश रहो!तुम और तरक्की करो।
+[आयुष्मान भव!]{}”blessing"(INTJ,BLESSING,LONG LIFE,EXPLN,AyuRamAna Bava)<H,0,0>;आयुष्मान भव!तुम्हें और सफलता मिले।
+[भाग्यशाली भव!]{}”good luck"(INTJ,BLESS,EXPLN,BAgyaSAlI Bava)<H,0,0>;भाग्यशाली भव!तुम्हें सफलता मिले।
+[भाग्यशाली हो!]{}”BLESS"(INTJ,BLESS,EXPLN,BAgyaSAlI ho)<H,0,0>;भाग्यशाली हो!तुम्हें सफलता मिले।
+[भगवान भला हो!]{}”BLESS"(INTJ,BLESS,EXPLN,BagavAna BalA ho)<H,0,0>;भगवान भला हो!तुम्हारी यात्रा सफल हो। 
+[हे!]{}”hello"(INTJ,ADRS,HELLO,he)<H,0,0>;हे!मेरा बैग वहाँ है।
+[हे रे!]{}”hello"(INTJ,ADRS,HELLO,he re)<H,0,0>;हे रे!तू मेरी सुनता क्यों नहीं?
+[अरे!]{}”hello"(INTJ,ADRS,HELLO,are)<H,0,0>;अरे!पहले मेरी बात तो सुन।
+[अरी!]{}”hello"(INTJ,ADRS,F,HELLO,arI)<H,0,0>;अरी!मेरी बात तो सुन।
+[ऐ!]{}”hello"(INTJ,ADRS,HELLO,E)<H,0,0>;ऐ!वहाँ मत जाओ।
+[ए!]{}”hello"(INTJ,ADRS,HELLO,e)<H,0,0>;ए!वहाँ मत जाओ।
+[ओ!]{}”hello"(INTJ,ADRS,HELLO,o)<H,0,0>;ओ!मेरी बात भी सुनो।
+[अजी!]{}”hello"(INTJ,ADRS,M,HELLO,ajI)<H,0,0>;अजी!आप वहाँ मत जाएं।
+[लो!]{}”hello"(INTJ,ADRS,HELLO,lo)<H,0,0>;लो!सभी लोग आ गए।
+[जी!]{}”hello"(INTJ,ADRS,HELLO,jI)<H,0,0>;जी!आपसे कुछ कहना है। 
+[अहो!]{}”hello"(INTJ,ADRS,HELLO,aho)<H,0,0>;अहो!हमें चलना चाहिए।
+[क्यों!]{}”hello"(INTJ,ADRS,WHY,HELLO,kyoM)<H,0,0>;क्यों!तुम्हें स्कूल नहीं जाना है?
+[बस!]{}”enough"(INTJ,INDICATION,ENOUGH,basa)<H,0,0>;क्यों!तुम्हें स्कूल नहीं जाना है?
+[सावधान!]{}”watch out"(INTJ,ATENTIVE,WARNING,watch_out,mAvaXAna)<H,0,0>;गोपाल कोई आ रहा है ईधर।सावधान!
+[देखो!]{}”look out"(INTJ,ATENTIVE,WARNING,look_out,xeKo)<H,0,0>;देखो!लगता है कोई ईधर आ रहा है।
+[अलविदा!]{}”adiev"(INTJ,ADIEV,alavixA)<H,0,0>;
+[अभिवादन!]{}”okay"(INTJ,ADIEV,aBivAxana)<H,0,0>;
+[ओ हो!]{}”a hoy"(INTJ,ADIEV,o ho)<H,0,0>;
+[अफसोस!]{}”a hoy"(INTJ,ADIEV,aPasosa)<H,0,0>;
+[ओह!]{}”"(INTJ,ADIEV,oha)<H,0,0>;
+[हायराम!]{}”alas"(INTJ,ADIEV,hAyarAma)<H,0,0>;
+[आमीन!]{}”amen"(INTJ,ADIEV,AmIna)<H,0,0>;
+[तथास्तु!]{}”okay"(INTJ,ADIEV,wWAswu)<H,0,0>;
+[सचमुच!]{}”really"(INTJ,ADIEV,sacamuc)<H,0,0>;
+[ठहरो!]{}”stop"(INTJ,ADIEV,Taharo)<H,0,0>;
+[रुको!]{}”stop"(INTJ,ADIEV,roko)<H,0,0>;
+[आगे बढ़ो!]{}”go ahead"(INTJ,ADIEV,Age baDZo)<H,0,0>;
+[दूर हटो!]{}”go away"(INTJ,ADIEV,xUra hato)<H,0,0>;
+[भगवान कसम!]{}”by God"(INTJ,ADIEV,BagavAna kasama)<H,0,0>;
+[कसम से!]{}”i swear"(INTJ,ADIEV,kasama se)<H,0,0>;
+[तुम्हारा कल्याण हो!]{}”blees you"(INTJ,ADIEV,tumhArA kalyAna ho)<H,0,0>;
+[आच्छु!]{}”ahchoo"(INTJ)<H,0,0>;(used in writing to indicate the noise made by sb sneezing)
+[हुँ!]{}”ahem"(INTJ)<H,0,0>;Ahem, might I make a suggestion?(used in writing to indicate the noise made when clearing the throat, esp to get sb's attention or express disapproval)
+[वाही-वाही!]{}”ahoy"(INTJ)<H,0,0>;Ahoy there! • Ship ahoy! (= there is a ship in sight)(used by people in boats to attract attention)
+[वाह!]{}”ah(scn>surprise)"(INTJ)<H,0,0>;Ah, what a lovely baby!(used to express surprise, delight, admiration, sympathy, understanding, etc or to introduce a point of disagreement)
+[अरे!]{}”ah(scn>surprise)"(INTJ)<H,0,0>;Ah, good, here's the bus!(used to express surprise, delight, admiration, sympathy, understanding, etc or to introduce a point of disagreement)
+[अच्छा!]{}”ah(scn>surprise)"(INTJ)<H,0,0>;Ah, there you are!(used to express surprise, delight, admiration, sympathy, understanding, etc or to introduce a point of disagreement)
+[ओह!]{}”ah(scn>sympathy)"(INTJ)<H,0,0>;Ah, but that may not be true!(used to express surprise,delight, admiration, sympathy, understanding, etc or to introduce a point of disagreement)
+[अच्छा!]{}”ah well(scn>understanding)"(INTJ)<H,0,0>;Ah well, never mind.
+[के आस-पास]{}"around"(POSTPOSTN,LANGDIVER-PREP,AROUND,ke_AsapAsa)<H,0,0>;
+[से]{}"from"(POSTPOSTN,LANGDIVER-PREP)<H,0,0>;Water the plants at a distance from the stem so that the stem does not get wet.(used to show where sb/sth starts)
+[के बीच]{}"between"(POSTPOSTN,LANGDIVER-PREP,BETWEEN,ke_bIca)<H,0,0>;
+[के पीछे]{}"behind"(POSTPOSTN,LANGDIVER-PREP,BEHIND,ke_pICe)<H,0,0>;
+[के अनुसार]{}"as per"(POSTPOSTN,LANGDIVER-PREP,AS_PER,ke_anusAra)<H,0,0>;Water thsse crop as per the requirement.(following sth that has been decided)
+[के बीच में]{}"across"(POSTPOSTN,LANGDIVER-PREP,ACROSS,ke_bIca_meM)<H,0,0>;A view held across all sections of the community.
+[के आरपार]{}"across"(POSTPOSTN,LANGDIVER-PREP)<H,0,0>;Draw a line across the page.
+[के उस पार]{}"across"(POSTPOSTN,LANGDIVER-PREP,ACROSS,ke_usa_pAra)<H,0,0>;My house is just acrooss the street.(on the other side of)
+[के आरपार]{}"across"(POSTPOSTN,LANGDIVER-PREP,ACROSS,ke_ArapAra)<H,0,0>;They built the bridge across the river.
+[के बाद]{}”after"(POSTPOSTN,LANGDIVER-PREP,TIME,AFTER,ke_bAxa)<H,0,0>;We’ll leave after lunch./गाड़ी जाने के बाद गोपाल स्टेशन पहुँचा।
+[के बारे में]{}”after"(POSTPOSTN,LANGDIVER-PREP,AFTER,ke_bAre_meM)<H,0,0>;She asked after you.
+[के पीछे]{}”after"(POSTPOSTN,LANGDIVER-PREP,AFTER,ke_pICe)<H,0,0>;He ran after her with the book./ The police are after him.
+[के होते हुए भी]{}”after"(POSTPOSTN,LANGDIVER-PREP,AFTER,ke_howe_hue_BI)<H,0,0>;It was pleasantly cool in the house after the sticky heat outside. / The cottage was beautifully quiet after all the noise and bustle in the town.(in contrast to sth)
+[के खोज मे]{}”after"(POSTPOSTN,LANGDIVER-PREP,AFTER,ke_Koja_meM)<H,0,0>;I am after a good job.(in search of)
+[के बावजूद]{}”after"(POSTPOSTN,LANGDIVER-PREP,AFTER,ke_bAvajUxa)<H,0,0>;After everything I've done for him, he still ignores me. (in spite of sth; although sth has happened)
+[की शैली में]{}”after"(POSTPOSTN,LANGDIVER-PREP,AFTER,kI_SElI_meM)<H,0,0>;Draw up a constitution after the American model.(in the style of sb/sth)
+[की ओर]{}”after"(POSTPOSTN,LANGDIVER-PREP,AFTER,DIRCTN,kI_ora)<H,0,0>;The boys stared after us.
+[के पास में]{}”against”(POSTPSTN,LANGDIVER-PREP,PLACE,AGAINST,ke_pAsa_meM)<H,0,0>;The picture looks good against light wall.
+[के विपरीत]{}”against”(POSTPOSTN,LANGDIVER-PREP,CONTRST,AGAINST,ke_viparIwa)<M,0,0>;Against the probability, she won a place in the finals.(in contrast of)
+[की विपरीत दिशा में]{}”against”(POSTPOSTN,LANGDIVER-PREP,DIRCTN,AGAINST,kI_viparIwa_xiSA_meM)<M,0,0>;We sailed against the wind.(in opposite direction)
+[के विरूद्ध]{}”against”(POSTPOSTN,LANGDIVER-PREP,CONTRST,AGAINST,ke_virUxXa)<M,0,0>; We will fight against the enemy.(in opposite to)
+[के लिए]{}”against”(POSTPOSTN,LANGDIVER-PREP,PURPOSE,AGAINST,ke_lie)<M,0,0>;Mr. Sarma has saved some money against his old age.(in preparation of)
+[में से]{}”against”(POSTPOSTN,LANGDIVER-PREP,SUBJECT,AGAINST,meM_se)<M,0,0>;Allowances to be set against income.(in relation to)
+[के बदले में]{}”against”(POSTPOSTN,LANGDIVER-PREP,EXCHANGE,AGAINST,ke_baxale_meM)<M,0,0>;What's the rate of exchange against the dollar?( in return for)
+[के खिलाफ]{}”against”(POSTPOSTN,LANGDIVER-PREP,CONTRST,AGAINST,ke_KilAPa)<M,0,0>;The evidence is against him.(not in favour of)
+[के सहारे]{}”against”(POSTPOSTN,LANGDIVER-PREP,AGAINST,ke_sahAre)<M,0,0>;Mr Sarma sat against the wall.(with support of)
+[से बचने के लिए]{}”against”(POSTPOSTN,LANGDIVER-PREP,PURPOSE,AGAINST,se_bacane_ke_lie)<M,0,0>;I am taking medicine against disease.(to save from)
+[के आगे]{}”after"(CASE-MARK,TIME,AFTER,ke Age)<H,0,0>;आज के आगे खेल परसों होगा।
+[के पीछे]{}”before"(CASE-MARK,TIME,BEFORE,ke pICe)<H,0,0>;दिन के पीछे सुबह होती है। 
+[के पूर्व]{}”before"(CASE-MARK,TIME,BEFORE,ke purva)<H,0,0>;दोपहर के पूर्व गोपाल घर गया।
+[के पहले]{}”before"(CASE-MARK,TIME,BEFORE,ke pahale)<H,0,0>;दोपहर के पहले गोपाल घर गया।  
+[के उपरान्त]{}”after"(CASE-MARK,TIME,AFTER,ke uparAnwa)<H,0,0>;स्कूल बंद होने के उपरान्त गोपाल घर गया।
+[के पश्चात]{}”after"(CASE-MARK,TIME,AFTER,ke pScAwa)<H,0,0>;स्कूल बंद होने के पश्चात गोपाल घर गया।
+[के लगभग]{}”apporoxmately to"(CASE-MARK,TIME,APPOROXMATELY TO,ke lagaBaga)<H,0,0>;शाम होने के लगभग है।
+[से पहले]{}”before"(CASE-MARK,TIME,BEFORE,se pahale)<H,0,0>;रात से पहले तुम कहाँ थे?
+[के अनंतर]{}"immediately upon"(CASE-MARK,TIME,IMMEDIATELTY_UPON,ke anaMwara)<H,0,0>;गोपाल खाने के अनंतर पानी नही पीता। 
+[से पूर्व]{}”before"(CASE-MARK,TIME,BEFORE,se pUrva)<H,0,0>;शाम होने से पूर्व गोपाल खेलता है।
+[से पहले]{}”before"(CASE-MARK,TIME,BEFORE,se pahale)<H,0,0>;चार बजे से पहले गोपाल घर पहुँच जाता है।
+[से लगभग]{}”apporoxmately"(CASE-MARK,TIME,APPOROXMATELY,se lagaBaga)<H,0,0>;रात होने से लगभग पहले गोपाल घर आता है।
+[पर]{}”on"(CASE,PLACE,ON,para)<H,0,0>;मेज पर किताब है। ????
+[तक]{}”up to"(CASE-MARK,PLACE,UP TO,waka)<H,0,0>;वह घर तक पैदल जाता है।????
+[के आगे]{}”infront of"(CASE-MARK,PLACE,IN_FRONT_OF,ke Age)<H,0,0>;घर के आगे कुआँ है।
+[के पास]{}”near to"(CASE-MARK,PLACE,NEAR_TO,ke pAsa)<H,0,0>;घर के पास दुकान है।
+[के निकट]{}”near by"(CASE-MARK,PLACE,NEAR_BY,ke nikata)<H,0,0>;घर के निकट एक स्कूल है।
+[के समीप]{}”near by"(CASE-MARK,PLACE,NEAR_BY,ke samIpa)<H,0,0>;घर के समीप स्कूल है।
+[के नजदीक]{}”close to"(CASE-MARK,PLACE,CLOSE_TO,ke najaxIka)<H,0,0>;घर के नजदीक स्कूल है। 
+[के ऊपर]{}”on"(CASE-MARK,PLACE,ON,ke Upara)<H,0,0>;मेज के ऊपर किताब है।
+[के नीचे]{}”below"(CASE-MARK,PLACE,BELOW,ke bAhara)<H,0,0>;मेज के नीचे किताब है।
+[के बाहर]{}”out of"(CASE-MARK,PLACE,OUT_OF,ke bAhara)<H,0,0>;घर के बाहर कुआँ है।
+[से परे]{}”beyond"(CASE-MARK,PLACE,BEYOND,se pare)<H,0,0>;शहर से परे गाँव है।
+[से आगे]{}"ahead of"(CASE-MARK,PLACE,AHEAD_OF,se Age)<H,0,0>;गोपाल शीला से आगे है।
+[से ऊपर]{}"above"(CASE-MARK,PLACE,ABOVE,se Upara)<H,0,0>;लाल पतंग काली पतंग से ऊपर है।
+[से नीचे]{}"down from"CASE-MARK,PLACE,DOWN_FROM,se nIce)<H,0,0>;गोपाल पेड़ से नीचे उतरता है।
+[से दूर]{}"far from"(CASE-MARK,PLACE,FAR_FROM,se xUra)<H,0,0>;स्कूल घर से दूर है।
+[के तले]{}”under"(CASE-MARK,PLACE,UNDER,ke wale)<H,0,0>;पेड़ के तले छाँव है।
+[के सामने]{}”infront of"(CASE-MARK,PLACE,INFRONT_OF,ke sAmane)<H,0,0>;घर के सामने कुआँ है।     
+[के भीतर]{}”within"(CASE-MARK,PLACE,WITH_IN,ke BIwara)<H,0,0>;घर के भीतर कुआँ है।
+[के बीच]{}”in between"(CASE-MARK,PLACE,IN_BETWEEN,ke bIca)<H,0,0>;किताबों के बीच कलम है।
+[के यहाँ]{}”in"(CASE-MARK,PLACE,ke yhAMz)<H,0,0>;गोपाल के यहाँ एक कुआँ है।
+[से दूर]{}”far from "(CASE-MARK,PLACE,FOR_FROM,se xUra)<H,0,0>;घर स्कूल से दूर है।
+[से आगे]{}”ahead from"(CASE-MARK,PLACE,AHEAD_FROM,se Age)<H,0,0>;घर से आगे एक स्कूल है।
+[की जगह]{}”inplace of"(CASE-MARK,PLACE,IN_PLACE_OF,kI jagaha)<H,0,0>किताब की जगह कलम है।
+[की ओर]{}”side"(CASE-MARK,DIRECTION,SIDE,kI ora)<H,0,0>;गोपाल घर की ओर गया है।
+[की तरफ]{}”side"(CASE-MARK,DIRECTION,SIDE,kI waraPa)<H,0,0>;गोपाल घर की तरफ गया है।
+[के प्रति]{}”towards"(CASE-MARK,DIRECTION,TOWARDS,ke prawi)<H,0,0>;दूसरे के प्रति प्रेम रखो।
+[के पार]{}”across"(CASE-MARK,DIRECTION,ACROSS,ke pAra)<H,0,0>;नदी के पार गाँव है।
+[के आरपार]{}”to right across"(CASE-MARK,DIRECTION,TO_RIGHT_ACROSS,ke ArapAra)<H,0,0>;गोली दिवार के आरपार हो गयी।
+[के आसपास]{}”near by"(CASE-MARK,DIRECTION,NEAR_BY,ke AsapAsa)<H,0,0>;घर के आसपास एक स्कूल है।
+[के द्वारा]{}”by"(CASE-MARK,MEDIUM,BY,ke xvArA)<H,0,0>;मशीन के द्वारा काम होता है।
+[के हाथ]{}”by"(CASE-MARK,MEDIUM,BY,ke hAWa)<H,0,0>;गोपाल के हाथ यह काम हुआ है।
+[के सहारे]{}”by"(CASE-MARK,MEDIUM,BY,ke sahAre)<H,0,0>;मछली पानी के सहारे जिन्दा है।
+[के बल]{}”on to"(CASE-MARK,MEDIUM,ON_TO,ke bala)<H,0,0>;गोपाल हाथों के बल खड़ा हो गया।
+[के बल बूते]{}”by the dinct of"(CASE-MARK,MEDIUM,BY_THE_DINCT_OF,ke bala bUwe)<H,0,0>;गोपाल के बल बूते स्कूल चल रहा है। 
+[की मारफ़त]{}”by"(CASE-MARK,MEDIUM,BY,kI mAraPZawa)<H,0,0>;शीला की मारफ़त घर चलता है।
+[के जरिए]{}”by"(CASE-MARK,MEDIUM,BY,ke jarie)<H,0,0>;गोपाल के जरिए शीला धन पाती है।
+[की ज़बानी]{}”by"(CASE-MARK,MEDIUM,BY,kI jZabAni)<H,0,0>;यह कहानी बच्चों की ज़बानी है।
+[करके]{}”karake"(CASE-MARK,MEDIUM,karake)<H,0,0>;ज्यादा करके गोपाल नहीं आएगा।**
+[के कारण]{}”due to"(CASE-MARK,REASON,DUE_TO,ke kAraNa)<H,0,0>;बीमारी के कारण गोपाल स्कूल नहीं गया।
+[की बदौलत]{}”due to"(CASE-MARK,REASON,DUE_TO,kI baxOlawa)<H,0,0>;गोपाल की बदौलत स्कूल चल रहा है।
+[के मारे]{}”due to"(CASE-MARK,REASON,DUE_TO,ke mAre)<H,0,0>;डर के मारे गोपाल भागा।
+[के लिए]{}”for"(CASE-MARK,REASON,FOR,ke lie)<H,0,0>;हमें पढ़ने के लिए किताब चाहिए।
+[के ख़ातिर]{}”to"(CASE-MARK,REASON,TO,kI KZAwira)<H,0,0>;मुझे जीने के ख़ातिर खाना चाहिए।
+[की वजह]{}”reason for"(CASE-MARK,REASON,REASON_FOR,kI vajaha)<H,0,0>;मेरे जीने की वजह क्या है? 
+[के हेतु]{}”for"(CASE-MARK,OBJECT,PURPOS,FOR,ke hetu)<H,0,0>;यह पानी पीने के हेतु है।
+[के निमित्त]{}”for the sake of"(CASE-MARK,OBJECT,PURPOS,FOR_THE_SAKE_OF,ke nimiwwa)<H,0,0>;मुझे रहने के निमित्त घर चाहिए।
+[की ख़ातिर]{}”for the sake of"(CASE-MARK,OBJECT,PURPOS,FOR_THE_SAKE_OF,ke KZAwira)<H,0,0>;हमें बच्चों की ख़ातिर स्कूल जाना है।
+[के वास्ते]{}”for the sake of"(CASE-MARK,OBJECT,PURPOS,FOR_THE_SAKE_OF,ke vAswe)<H,0,0>;मुझे रहने के वास्ते घर चाहिए।
+[के बाबत]{}”compare to"(CASE-MARK,SUBJECT,COMPARE_TO,ke bAbawa)<H,0,0>;इस किताब के बाबत वह किताब अच्छी है। 
+[के निस्बत]{}”compare to"(CASE-MARK,SUBJECT,COMPARE_TO,ke nisbawa)<H,0,0>;इस स्कूल के निसबत वह स्कूल अच्छा है।
+[के विषय]{}”about"(CASE-MARK,SUBJECT,ABOUT,ke viRaya)<H,0,0>;वह गोपाल के विषय में बोल रहा है।
+[के नाम]{}”for"(CASE-MARK,SUBJECT,FOR,ke nAma)<H,0,0>;गोपाल के नाम एक पत्र है।
+[के लेखे]{}”because of"(CASE-MARK,SUBJECT,BECAUSE_OF,ke leKe)<H,0,0>;गोपाल के लेखे स्कूल बना है।
+[के भरोसे]{}”depending on"(CASE-MARK,SUBJECT,DEPENDING_ON,ke Barose)<H,0,0>;शीला गोपाल के भरोसे है।
+[के मद्दे]{}”on account of"(CASE-MARK,SUBJECT,THROUGH,ke maxxe)<H,0,0>;यह बात स्कूल के मद्दे कही गई है।
+[के समान]{}”similar to"(CASE-MARK,SIMLTY,SIMILAR_TO,ke samAna)<H,0,0>;जीवन पानी के समान होता है।
+[के तुल्य]{}”equal to"(CASE-MARK,SIMLTY,EQUAL_TO,ke wulya)<H,0,0>;गोपाल हीरे के तुल्य है।
+[के बराबर]{}”equal to"(CASE-MARK,SIMLTY,EQUAL_TO,ke barAbara)<H,0,0>;उपासना त्याग के बराबर होती है। 
+[के योग्य]{}”suitable to"(CASE-MARK,SIMLTY,SUITABLE_TO,ke yogyA)<H,0,0>;शीला पूजा के योग्य है।
+[के लायक]{}”suitable to"(CASE-MARK,SIMLTY,SUITABLE_TO,ke lAyaka)<H,0,0>;यह पानी पीने के लायक है।
+[के अनुरुप]{}”according to"(CASE-MARK,SIMLTY,ACCORDING_TO,ke anurUpa)<H,0,0>;गोपाल समय के अनुरूप चलता है।
+[के जैसा]{}”like"(CASE-MARK,SIMLTY,LIKE,ke jEsA)<H,0,0>;वह गोपाल के जैसा आदमी है।
+[के जैसे]{}”like"(CASE-MARK,SIMLTY,LIKE,ke jEse)<H,0,0>;गोपाल बच्चों के जैसे बात करता है।
+[के जैसी]{}”like"(CASE-MARK,SIMLTY,LIKE,ke jEsI)<H,0,0>;शीला गोपाल के जैसी है।
+[की तरह]{}”like"(CASE-MARK,SIMLTY,LIKE,kI waraha)<H,0,0>;गोपाल की तरह बनो। 
+[की भाँति]{}”like"(CASE-MARK,SIMLTY,LIKE,kI BAMzwi)<H,0,0>;गोपाल के भाँति काम करो। 
+[की तुलना में]{}”in comparision to"(CASE-MARK,SIMLTY,IN_COMPARISION_TO,kI wulanA meM)<H,0,0>;गोपाल की तुलना में शीला अच्छी है।
+[की नाईं]{}”like"(CASE-MARK,SIMLTY,LIKE,kI nAIM)<H,0,0>;मूर्ति की नाईं मत बनो।
+[की माफ़िक]{}”like"(CASE-MARK,SIMLTY,LIKE,kI mAPika)<H,0,0>;यह् स्कूल घर के माफ़िक है।
+[के सदृश]{}”like"(CASE-MARK,SIMLTY,LIKE,ke saxQSa)<H,0,0>;वह पुष्प के सदृश कोमल है।
+[के अनुसार]{}”according to"(CASE-MARK,SIMLTY,ACCORDING_TO,ke anusara)<H,0,0>;गोपाल नियम के अनुसार चलता है।
+[के अनुकूल]{}”according to"(CASE-MARK,SIMLTY,ACCORDING_TO,ke anukUla)<H,0,0>;गोपाल नियम के अनुकूल चलता है।
+[की देखा देखी]{}”in imitation of"(CASE-MARK,SIMLTY,IN_IMITATION_OF,kI xeKAxeKI)<H,0,0>;शीला की देखा देखी बच्चे ऐसा कर रहे हैं।
+[के सरीखा]{}”like"(CASE-MARK,SIMLTY,LIKE,ke sarIKA)<H,0,0>;शीला के सरीखा अच्छा है गोपाल।
+[के सरीखे]{}”like"(CASE-MARK,SIMLTY,LIKE,ke sarIKe)<H,0,0>;शीला के सरीखे गोपाल है। 
+[के ऐसा]{}”like"(CASE-MARK,SIMLTY,LIKE,ke EsA)<H,0,0>;गोपाल के ऐसा सुन्दर कोई नही है। 
+[के मुताबिक]{}”according to"(CASE-MARK,SIMLTY,ACCORDING_TO,ke muwAbika)<H,0,0>;समय के मुतबिक चलो।
+[के बिरूध]{}”contrary to"(CASE-MARK,CONTRAST,CONTRARY_TO,ke birUXa)<H,0,0>;बहाव के विरुध नाँव चल रही है। 
+[के प्रतिकूल]{}”contrary to"(CASE-MARK,CONTRAST,CONTRARY_TO,ke prawikUla)<H,0,0>;समय के प्रतिकूल मत चलो।
+[के ख़िलाफ]{}”contrary to"(CASE-MARK,CONTRAST,CONTRARY_TO,ke kilaPa)<H,0,0>;यह बात नियम के ख़िलाफ है।
+[के विपरीत]{}”contrary to"(CASE-MARK,CONTRAST,CONTRARY_TO,ke viparIwa)<H,0,0>;यह बात नियम के विपरीत है
+[के उलटा]{}”contrary to"(CASE-MARK,CONTRAST,CONTRARY_TO,ke ulatA)<H,0,0>;बहाव के उलटा नाव चलाना कठिन है। 
+[के साथ]{}”with"(CASE-MARK,COMPANION,WITH,ke sAWa)<H,0,0>;समय के साथ चलो।
+[के समेत]{}”with"(CASE-MARK,COMPANION,WITH,ke samEwa)<H,0,0>;बच्चों के समेत गोपाल घर आया।
+[के संग]{}”with"(CASE-MARK,COMPANION,WITH,ke samga)<H,0,0>;बच्चे शीला के संग चले गये। 
+[के सहित]{}”along with"(CASE-MARK,COMPANION,ALONG_WITH,ke sahiwa)<H,0,0>;बच्चों के सहित गोपाल घर आया।
+[के अधीन]{}”dependant on"(CASE-MARK,COMPANION,DEPENDANT_ON,ke aXIna)<H,0,0>;दूसरों के अधीन रहना कठिन है।
+[के पराधीन]{}”dependant on"(CASE-MARK,COMPANION,DEPENDANT_ON,ke parAXIna)<H,0,0>;दूसरों के पराधीन रहना कठिन है।
+[के वश]{}”controle"(CASE-MARK,COMPANION,CONTROLE,ke vaSa)<H,0,0>;गोपाल के वश ये काम नहीं होगा। 
+[के अलावा]{}”without"(CASE-MARK,SEPARATION,WITHOUT,ke alAvA)<H,0,0>;गोपाल के अलावा सभी ने खाना खाया।
+[के अतरिक्त]{}”without"(CASE-MARK,SEPARATION,WITHOUT,ke awarikwa)<H,0,0>;गोपाल के अतरिक्त सभी ने खाना खाया।
+[के सिवाय]{}”without"(CASE-MARK,SEPARATION,WITHOUT,ke sivAya)<H,0,0>;गोपाल के सिवाय सभी ने खाना खाया।
+[के सिवा]{}”without"(CASE-MARK,SEPARATION,WITHOUT,ke sivA)<H,0,0>;शीला के सिवा घर सूना होता है।
+[के बिना]{}”without"(CASE-MARK,SEPARATION,WITHOUT,ke binA)<H,0,0>;माँ के बिना बच्चा नहीं रह सकता।
+[के बगैर]{}”without"(CASE-MARK,SEPARATION,WITHOUT,ke bagEra)<H,0,0>;पानी के बगैर खाना बन नहीं सकता।
+[के रहित]{}”without"(CASE-MARK,SEPARATION,WITHOUT,ke rahiwa)<H,0,0>;तेल के रहित भोजन लाभकारी होता है।
+[के बदले]{}”in place of"(CASE-MARK,SEPARATION,IN_PLACE_OF,ke baxale)<H,0,0>;गोपाल के बदले शीला बाजार जाती है।
+[के एवज]{}”in place of"(CASE-MARK,SEPARATION,IN_PLACE_OF,ke evaja)<H,0,0>;गोपाल के एवज शीला बाजार जाती है।
+[%]{}”percent(icl>proportion)"(N,INANI,ABS,SYMBL,PERCENT)<H,0,0>;
+[X]{}"multiply(icl>calculate(agt>thing,obj>thing))"(V,VOA,VOA-ACT-MNTL,VLTN,TMP)<H,0,0>;10 X 2 (to combine by multiplication)
+[]{}"get(icl>change state)"(V,VAUX,POLYFUNCTIN)<H,0,0>;The rose buds get destroyed due to maggot./गुलाब की कलियाँ मेगट के कारण नष्ट हो जाती हैं। 
+[]{}"exist(icl>be(aoj>thing,obj>thing))"(V,VOS,VAUX,BE,lnk,Vo)<H,0,0>;The farm implements used in the diseased field should not be used as they are, they should be used after making them germfree.(to exist; to be present)
+[से संबंधित]"regarding"(ADJ,DES,QUAL,LANGDIVER-PREP)<H,0,0>;(concerning sb/sth; about sb/sth)
