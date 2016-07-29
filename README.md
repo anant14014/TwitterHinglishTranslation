@@ -35,16 +35,19 @@ A simple approach with minimal use of any APIs is implemented
 
 ## Translation
 Given these dictionaries, translation was trivial: if a word in a tweet is not present in the list of English stopwords, it is translated.
+
+#Output
+The output is written to a file called "output.txt" in the working directory. The format is: Tweet\n Translated Tweet\n \n
 		
 #Challenges
 	1. Nature of tweets - acronyms, spelling errors, lots of noisy data
 	2. Lack of easy availability of high quality transliterated Hindi-English data
 
 #Possible Optimizations
-	Given a larger timeframe, the following optimizations can be explored:
-		1. Better datasets would significantly improve results - can be purchased, created etc
-		2. A machine learning approach could be used for transliteration and detecting when a word is Hindi
-		3. An RNN could be used to cross-reference dictionary resuts with context in the task of translation
+Given a larger timeframe, the following optimizations can be explored:
+	1. Better datasets would significantly improve results - can be purchased, created etc
+	2. A machine learning approach could be used for transliteration and detecting when a word is Hindi
+	3. An RNN could be used to cross-reference dictionary resuts with context in the task of translation
 
 #References and Datasets
 	+https://www.atala.org/IMG/pdf/2.Das-TAL54-3.pdf
